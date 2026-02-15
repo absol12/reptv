@@ -34,6 +34,9 @@ jobs:
           dastrm=$(echo $final_url | sed 's/nowtv-live-ad.ercdn.net\/nowtv\/playlist.m3u8/nowtv.daioncdn.net\/nowtv\/nowtv.m3u8/')
           echo "dastrm=${dastrm}" >> $GITHUB_ENV
 
+      - name: Clean up nowtur1.py
+        run: rm -f nowtur1.py
+
       - name: Replace Text
         run: |
           erstrm=${erstrm}
