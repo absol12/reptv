@@ -188,9 +188,9 @@ https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS (backup)
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
-https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-3e783b-0@3x.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
 https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI0LjIzNi4xNzMuMTYiLCJjbWNkIjoiIiwiZXhwIjoxNzcxMTc1NzQ5LCJnaWQiOiIxODYxNTEwN2EyNDA0Mjg4OGFlODRjNjAyYmUwOTM2OCIsImlhdCI6MTc3MTE2MTM0OSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS9hYjU0Y2M2YjhlN2E0MmFhYWY0ZmMxNTY4YjdlNmMyNy90ZjEtY21hZiIsInN1YiI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4In0.dUhe7E6E_TSOA6mOQc2bER2cvQz87iBdrNrGJr4eaok/out/v1/ab54cc6b8e7a42aaaf4fc1568b7e6c27/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxMzUuMjMyLjIyNC4xMTUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwOTgyMTQ0LCJnaWQiOiIxODYxNTEwN2EyNDA0Mjg4OGFlODRjNjAyYmUwOTM2OCIsImlhdCI6MTc3MDk2Nzc0NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4In0.wSrlA8ETieKI5JNjldLgSsUC-Ljf0ZEb-88kKi7AEvA/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
 
@@ -1086,7 +1086,7 @@ https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3HD3KX/bikanal.png",Bİ 1! KANAL
-https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CİNE 1 TV
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
@@ -2019,11 +2019,15 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtG0fMD/galic.jpg",TVG 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg",EITB 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg",EITB 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB 1
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg",EITB INT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB 2
+https://cdn1.etbon.eus/oc2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB INT
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhXvbPN/eitb.jpg" referer="https://www.eitb.eus/",EITB INT
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
@@ -2475,6 +2479,12 @@ https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 4
 https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 2
 https://Streamer3.qna.org.qa:443/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 3
@@ -3396,7 +3406,7 @@ https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRAN TV
 https://irantv.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRAN TV INTL
-https://iranintl.icdndhcp.com/hls/stream.m3u8
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRIB IFILM FAR
@@ -3657,6 +3667,8 @@ https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG ORIGINALS
 https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG ORIGINALS
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS EN
 https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/e/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
