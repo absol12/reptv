@@ -41,7 +41,7 @@ jobs:
 
     - name: Replace in m3u
       run: |
-        tf1_line=$(grep -n - m1 'TF1-' 01.m3u | cut -d: -f1)
+        tf1_line=$(grep -n 'TF1--' 01.m3u | cut -d: -f1)
         if [ -n "$tf1_line" ]; then
           new_line_num=$((tf1_line + 1))
           sed -i "${new_line_num}s|.*|$FINAL_URL|" 01.m3u
