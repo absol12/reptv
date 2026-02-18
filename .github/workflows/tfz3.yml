@@ -33,7 +33,7 @@ jobs:
     - name: Run py and extract URL
       id: extract
       run: |
-        FINAL_URL=$(python3 py/tf1.py)
+        FINAL_URL=$(python3 tfz3.py)
         echo "FINAL_URL<<EOF" >> $GITHUB_ENV
         echo "$FINAL_URL" >> $GITHUB_ENV
         echo "EOF" >> $GITHUB_ENV
