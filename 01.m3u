@@ -992,9 +992,9 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-OcQkcYLboxiW8npLXpsAg&e=1771611851
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=OZUtYrPslAM6Z-4o06hcLQ&e=1771621769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-OcQkcYLboxiW8npLXpsAg&e=1771611851
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=OZUtYrPslAM6Z-4o06hcLQ&e=1771621769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
