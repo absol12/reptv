@@ -355,7 +355,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🎞️🤾‍♀️",FRANCE TV SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🤾‍♀️🎞️",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/series.m3u8
@@ -1129,7 +1129,7 @@ https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR 🤾‍♀️🧒",TRT GENÇ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
