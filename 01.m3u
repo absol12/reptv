@@ -3283,14 +3283,24 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="29. |IR|🇮🇷 IRAN",IRIB 1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
 https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png",IRIB 3
 https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png",IRIB 3
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png",IRIB 4
 https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png",IRIB 4
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png",IRIB 5 TEHRAN
 https://ncdn.telewebion.com/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png",IRIB 5 TEHRAN
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GMLStpQ/amoozesh.png",IRIB AMOOZESH
 https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1LmYfnH/mostanad.png",IRIB MOSTANAD
@@ -3548,6 +3558,8 @@ https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
@@ -3565,6 +3577,10 @@ https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c9a48de4-5b6e-4bb9-bb5c-04ce6a5b722c:CHS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
