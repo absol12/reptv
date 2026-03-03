@@ -1337,6 +1337,8 @@ https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",AS TV BURSA
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",AFYON TV3
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BİR TV İZMİR
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",BRTV KARABÜK
@@ -2295,6 +2297,8 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9pNND8H/senses.png",SENSES SCENERIES
 https://sensestv.com:4433/hls/sensesonline/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
+http://185.9.2.18/chid_6308/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygKx229/lana1.png",LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
