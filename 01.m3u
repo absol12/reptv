@@ -2309,6 +2309,8 @@ http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png",AL MANAR
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com",NBN (backup)
 https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 
@@ -2377,8 +2379,6 @@ https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8
 https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png",AL MANAR
-https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png",AL GHAD TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png",AL GHAD PLUS
