@@ -41,7 +41,7 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO LIVE
 https://d1gsfjwktnstnw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46esn6i995lvi/LeFigaroTV_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",RDI CANADA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
@@ -2325,6 +2325,8 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 https://cdn1.iptvcdn.tv/mcnc/AL_ARABY_2_HD_ENCODED/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
 http://185.9.2.18/chid_326/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png" user-agent="Mozilla/5.0" referer="https://starzplay.com/" drm="Clearkey", drmkey="1cb79f982984ece91932030a4bb7faaa:e2e50fafa92382e735bc0e8aa1f67b20",AL EMARAT
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_dash/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1
