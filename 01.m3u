@@ -3843,7 +3843,11 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 120
 http://indisponible
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" referer="https://starzplay.com/" drm="Widevine" drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU DHABI
+#EXTINF:-1,ABU DIR
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_dash/index.mpd
-#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" referer="https://starzplay.com/" drm="WideVine" drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU DHABI
+#EXTINF:-1 user-agent="Mozilla/5.0" referer="https://starzplay.com/" drm="Clearkey", drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU MNI CK
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_dash/index.mpd
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" referer="https://starzplay.com/" drm="Clearkey" drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU UALG CK
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_dash/index.mpd
+#EXTINF:-1 user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" referer="https://starzplay.com/" drm="Widevine" drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU DHABI WV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_dash/index.mpd
