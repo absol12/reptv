@@ -3871,3 +3871,19 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 120
 http://indisponible
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",mMani VLC
+https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
+#EXTINF:-1,mMaster
+https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainMaster.m3u8
+#EXTINF:-1,index
+https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/index.m3u8
+#EXTINF:-1 user-agent="VLC/3.0.18 LibVLC/3.0.18",gmana mani vlc
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
+#EXTINF:-1,gmana mast
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/mainMaster.m3u8
+#EXTINF:-1,out v1
+https://dsk76kvc9kie6.cloudfront.net/out/v1/87f59c77-03f6-4bad-a648-897e095e7360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת (check
+https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY (check
+https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8
