@@ -1287,10 +1287,8 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6B8M20v/on422.png",ON4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fxmz8fF/cemtv.png",CEM TV
-https://tv.cemtv.net/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
-https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
+https://tv.cemtv.net/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz9m8HdG/sutv.jpg",SU TV
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD6873K/yolred.png",YOL TV
