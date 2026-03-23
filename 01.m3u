@@ -288,6 +288,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN (backup)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN (backup)
+https://channels.trace.plus/Traceprod/URBAN_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN (backup)
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 
 
@@ -1184,9 +1186,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
@@ -1851,8 +1851,8 @@ https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2YCsC0/kurikids.png",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fk0Vttj/tracebraz.png",TRACE BRAZUCA
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv5HchL1/trtoca.png",TRACE TOCA
+https://channels.trace.plus/Traceprod/TOCA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT (backup)
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25077/euronews-pt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT (backup)
@@ -2137,6 +2137,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png",TVE INTERNACIONAL (backup)
 https://ztnr.rtve.es/ztnr/6891743.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png",TRACE LATINA (backup)
+https://channels.trace.plus/Traceprod/LATINA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN [geo-restricted]
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN [geo-restricted]
@@ -3157,6 +3159,18 @@ https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WzpFycZ/lrtlitu.png",LRT TV
 https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |CZ:🇨🇿 CEZCH REPUBLIC| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3RNJgQH/ct1.png",CT 1
+https://estreams.tv.nej.cz/dash/CH_CT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZZVF33N/ct2.png",CT 2
+https://estreams.tv.nej.cz/dash/CH_CT2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YzLd2F5/ct24.png",CT 24
+https://estreams.tv.nej.cz/dash/CH_CT24_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBytjPVc/prima.png",PRIMA
+https://estreams.tv.nej.cz/dash/CH_PRIMA_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRwPqYBn/novacz.jpg",NOVA
+https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |RO:🇷🇴 ROMANIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
@@ -3279,6 +3293,10 @@ https://stream.syritv.al/live/syritv/playlist.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 1TV პირველი არხი
+https://tv.nucast.tv/lb/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
+https://tv.nucast.tv/lb/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB HD
