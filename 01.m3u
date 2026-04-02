@@ -2913,6 +2913,8 @@ https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/in
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",TARAB
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",AFLAM
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA AFLAM PLUS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png",ROTANA M PLUS
