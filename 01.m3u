@@ -44,7 +44,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS
-https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14
+https://video.twimg.com/amplify_video/2040064320168665089/pl/DpiDbgVf1XKSiEdh.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYKgLYPV/frinter.png",FRANCE INTER DIRECT
@@ -3923,5 +3923,5 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:-1,Empty 120
+#EXTINF:-1,Empty 12
 http://indisponible
