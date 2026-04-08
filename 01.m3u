@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="0. |WD|🔥🏴‍☠️SPECIAL WAR 🚨🚁⚔️",AL JAZEERA [AR]
-http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MURR MTV [LB]
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 [IL]
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI [FR]
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h8h2d5Q/tag24.png",TAGESSCHAU 24 [DE]
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT NEWS [RU]
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" referer="https://odysee.com/",PRESS TV [IR]
-https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS [US]
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV [UK]
-https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AR [MA]
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL [TR]
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION ℹ️📰",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
@@ -41,7 +17,9 @@ https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN24 LES NEWS BE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN 24 BELGIQUE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS
 https://github.com/pinkisso/mored/raw/main/res/26-1/tvltvlib.ts
@@ -691,6 +669,8 @@ https://tntv-samsung-fr.amagi.tv/amRdirect/device/hls/amagi_hls_data_samsungfr-t
 https://live.atvplus.fr/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png",ETV GUADELOUPE
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvwVWVt6/rhtgd.png",RADIO HAUTE TENSION TV GUAD.
+https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg",FUSION TV
 https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwvbkW2V/peyi.jpg",TÉLÉ PEYI GUYANE
@@ -763,6 +743,8 @@ https://livevideo.vedge.infomaniak.com/livecast/ik:canalalpha/manifest.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzJtxkx/mmediach.png",M LE MÉDIA
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/mlemedia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLyV7hjY/tvdch.png",TVD TV DÉCOUVERTE
+https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CA-QC:🇨🇦 ZONE CANADA\QUÉBEC| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
@@ -771,6 +753,8 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqLCHkz/cpac.png",CPAC TV
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whkNzKNr/iciteleqb.png",ICI QUÉBEC
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whkNzKNr/iciteleqb.png",ICI QUÉBEC
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHBB7zv/icimontreal.png",ICI MONTRÉAL
@@ -817,6 +801,10 @@ http://69.64.57.208/tm2/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 1 (CI)
 https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_vqff78xz/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 1 (CI)
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 2 (CI)
+https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI 2 (CI)
 https://cdnapisec.kaltura.com/p/6234172/playManifest/entryId/1_tk6zpgcs/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKX3HQNG/afrlog.png",RTI3 (CI)
@@ -894,7 +882,7 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
@@ -983,6 +971,8 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100 (backup)
 https://tlkaycmdoq.turknet.ercdn.net/ckvbdssyig/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100 (backup)
@@ -2322,7 +2312,7 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="19. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",MURR LBN
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MURR LBN
-https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE LBN
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tw7m2sxT/redlbn.png",RED LBN
