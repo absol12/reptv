@@ -1826,7 +1826,7 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCzRYjV/mca.png",MCA
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpQj4Dd/fama.png",FAMA FM TV
@@ -2355,10 +2355,8 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png",NABAA TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
-https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/taha.png",TAHA TV
-https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h872gKg/.png", TV
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png",AL MANAR
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR2jkMz/nbnlb.png" referer="https://odysee.com",NBN (backup)
