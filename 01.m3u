@@ -2423,6 +2423,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",,SYRIA SAT CH
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DH9J1qQN/aliraqia.jpg",AL IRAQIA TV
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JpfbVF6/halabtod.png",HALAB TODAY
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
@@ -2797,6 +2799,8 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQtMFVT/qamar.jpg",AL QAMAR
 https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd5d2K8X/alaimma.png",AL AIMMA TV
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",AL EKHBARIA
