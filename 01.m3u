@@ -346,7 +346,9 @@ https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23JK5ZzF/society.png",SOCIETY PLUS
 https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
-https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/kto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
+https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJyNqdg/dieutv.png",DIEU TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FM2MbV/emci.png",EMCI TV
