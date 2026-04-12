@@ -1781,7 +1781,7 @@ http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="15. |PT|🇵🇹 PORTUGAL" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gztz71N/rtpmundo.png" group-title="15. |PT|🇵🇹 PORTUGAL" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP MUNDO
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u
@@ -1791,7 +1791,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTÍCIAS
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnqCkQj/rtp3.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 3 NOTÍCIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwQdjcqH/rtpnot.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP NOTÍCIAS
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
