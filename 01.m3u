@@ -71,8 +71,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/pu
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/sudradio.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYKgLYPV/frinter.png",FRANCE INTER DIRECT (backup)
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
@@ -169,22 +167,14 @@ https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png",NOVO 19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvcLdXT/tfsf.png",TF1 SÉRIES FILMS
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRCWKTBL/Rmclife.png",RMC LIFE (backup)
-https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18 (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE MOYEN-ORIENT [geo-area]
@@ -197,8 +187,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19 (backup)
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS (backup)
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1Mi4yMzQuNDEuNjYiLCJjbWNkIjoiIiwiZXhwIjoxNzcxNDE0MTgxLCJnaWQiOiIxODYxNTEwN2EyNDA0Mjg4OGFlODRjNjAyYmUwOTM2OCIsImlhdCI6MTc3MTM5OTc4MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4In0.ZAivDS6laAWg7entnCPSlvOOpx6UGCEUjrgxSO3Zdnk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10d0c36f164-7781b265-15d2-4a81-b768-1e468be8742d&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
@@ -251,8 +239,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c",GULLI
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
@@ -2160,21 +2146,21 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
-https://cdnet.alwaysdata.net/maroo57/malaayoune.php?m3u8
+https://cdnet.alwaysdata.net/maroo22/malaayoune.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/maroo57/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/maroo22/maaloula.php?m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
-http://5.253.46.190:8000/play/a0ea/index.m3u8
+https://xddrts.alwaysdata.net/maroo22/maarry.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/maroo57/maarrytnt.php?m3u8 
+https://cdnet.alwaysdata.net/maroo22/maarrytnt.php?m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ATHAQAFIA الثقافية
-http://oppomu.serv00.net/maroo57/maarrabia.php?m3u8
+https://cdnet.alwaysdata.net/maroo22/maarrabia.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+https://xddrts.alwaysdata.net/maroo22/mamaghribia.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/maroo57/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/maroo22/maassadi.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/maroo57/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/maroo22/matamaz.php?m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N22619Rm/Mosaiquetn.jpg",MOSAÏQUE FM TV TN
