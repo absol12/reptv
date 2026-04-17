@@ -199,6 +199,14 @@ https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manif
 https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=KZneDb8q6_J6N3FrtpZYN_1FQVM58ryB7P6zZNNnpQxdGfis-SBOpHH-HDotHLeA8pArx3VAm3gtyedSFRl9DjKqQ0ytpX3BpKGGJ5FKe24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjHpFhyj/skyrockf.png",SKYROCK RAP
 https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01796-amg01796c37-amgplt0011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="Mozilla/5.0" referer="https://www.nrj.be/",NRJ BE
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="VLC/3.0.20 LibVLC/3.0.20" referer="https://www.nrj.be/",NRJ BE
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w634806117_b1496608.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="Mozilla/5.0" referer="https://www.nrj.be/",NRJ BE
+http://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="VLC/3.0.20 LibVLC/3.0.20" referer="https://www.nrj.be/",NRJ BE
+http://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w634806117_b1496608.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
