@@ -157,6 +157,8 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
@@ -183,8 +185,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" drm="ClearKey", drmkey="d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099",NOVO 19 (backup)
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1Mi4yMzQuNDEuNjYiLCJjbWNkIjoiIiwiZXhwIjoxNzcxNDE0MTgxLCJnaWQiOiIxODYxNTEwN2EyNDA0Mjg4OGFlODRjNjAyYmUwOTM2OCIsImlhdCI6MTc3MTM5OTc4MSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4In0.ZAivDS6laAWg7entnCPSlvOOpx6UGCEUjrgxSO3Zdnk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10d0c36f164-7781b265-15d2-4a81-b768-1e468be8742d&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18 (backup)
