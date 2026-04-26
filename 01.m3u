@@ -1283,6 +1283,8 @@ https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bizim_Ev_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
 https://tv.cemtv.net/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz9m8HdG/sutv.jpg",SU TV
