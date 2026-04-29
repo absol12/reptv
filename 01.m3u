@@ -77,14 +77,20 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
+https://live-cdn-bfmtv-lg-fr-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
+https://live-cdn-bfm2-lg-fr-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
+https://live-cdn-bfmbusiness-lg-fr-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
@@ -191,6 +197,10 @@ https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY (backup)
+https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE (backup)
+https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
@@ -283,6 +293,8 @@ http://tvradiozap.eu/tools/yt-m3u8.php/@sqooltv.m3u8
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+https://live-cdn-technco-lg-main-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
 http://dyc8bdiow0oz1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/85ac8883-2de0-4285-8f27-9d97857c45ad/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA 
@@ -411,6 +423,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH FR
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH FR
+https://amg01444-amg01444c7-lg-fr-8031.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj8dwzgz/100comedy.jpg",100 COMEDIES
 https://amg02393-amg02393c10-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
@@ -3666,6 +3680,10 @@ https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
@@ -3683,6 +3701,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c87
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
@@ -3711,10 +3731,14 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rH3FDN2/cheddar.jpg",CHEDDAR NEWS
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rH3FDN2/cheddar.jpg",CHEDDAR NEWS
+https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8?ads.xumo_channelId=99991220
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX 2
+https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_channelId=99991194
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpVXtWSW/scripps.png",SCRIPPS NEWS
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
@@ -3735,6 +3759,8 @@ https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC NEWS
 https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC NEWS
+https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png",GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS GLOBAL
@@ -3761,6 +3787,8 @@ https://vs-hls-pushb-ntham-gcomm-live.akamaized.net/x=4/i=urn:bbc:pips:service:b
 https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
@@ -3769,6 +3797,8 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 https://dqco14bu26p3z.cloudfront.net/30505/88818604/hls/master.m3u8?ads.xumo_channelId=88818604
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
@@ -3789,6 +3819,8 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg",NEWS WORLD
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg",NEWS WORLD
+https://amg01076-amg01076c24-lg-fr-10069.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-newsworldfrench-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
