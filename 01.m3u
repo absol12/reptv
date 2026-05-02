@@ -1883,8 +1883,6 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 https://eventos.live.impresa.pt/opto_in1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" referer="https://sic.pt/",SIC NOVELAS (backup)
 https://eventos.live.impresa.pt/opto_in2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI (backup)
-https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="16. |ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL
