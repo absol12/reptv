@@ -1590,7 +1590,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",RÛDAW TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ROJAVA TV
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",ZOOMNEWS
