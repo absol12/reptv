@@ -147,6 +147,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjcyIiwiY21jZCI6IiIsImV4cCI6MTc3Nzc4OTE3NywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3Nzc3NzQ3NzcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.vYoqtvdtMw3AFgLegVDgELn-x4RrknbenNTVgtBuOtU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4yOS4yOS4yMSIsImNtY2QiOiIiLCJleHAiOjE3Nzc4MzA2ODQsImdpZCI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4IiwiaWF0IjoxNzc3ODE2Mjg0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzJhNWVmMmE0Y2U0YTQxMjA5ZTBhODgxMDc0ZDE1OTMyL3RmMS1jbWFmIiwic3ViIjoiMTg2MTUxMDdhMjQwNDI4ODhhZTg0YzYwMmJlMDkzNjgifQ.5lE_WvaWR7P_oiWYuL6IpoAuDYe9n76cn83bhFOS0HM/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10a0b250c18-1caba7cd-def7-4d39-af8c-2f733fdb89e3&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
@@ -191,8 +193,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4yOS4yOS4yMSIsImNtY2QiOiIiLCJleHAiOjE3Nzc4MzA2ODQsImdpZCI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4IiwiaWF0IjoxNzc3ODE2Mjg0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzJhNWVmMmE0Y2U0YTQxMjA5ZTBhODgxMDc0ZDE1OTMyL3RmMS1jbWFmIiwic3ViIjoiMTg2MTUxMDdhMjQwNDI4ODhhZTg0YzYwMmJlMDkzNjgifQ.5lE_WvaWR7P_oiWYuL6IpoAuDYe9n76cn83bhFOS0HM/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10a0b250c18-1caba7cd-def7-4d39-af8c-2f733fdb89e3&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptHDpDv/t18.png",T18 (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
@@ -3899,6 +3899,8 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png",CHANNEL NEWS ASIA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J24bwVD/cnaid.png",CHANNEL NEWS ASIA
+https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 EN
