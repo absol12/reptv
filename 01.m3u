@@ -2029,6 +2029,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV ANDALUCÍA
 https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV GRANADA
+https://streaming004.gestec-video.com/hls/7TVGRANADA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV HUELVA
 https://streaming004.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sptFJqNj/7anda.jpg",7TV MÁLAGA
@@ -2071,6 +2073,12 @@ https://directes-tv-es.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA 24H
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA OTRA
+https://directes-tv-es.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA CLASSIC
+https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA ANIME
+https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA FAST 1
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmGNS4w/tvcata.jpg",TV3 CATALUNYA FAST 2
@@ -2083,6 +2091,8 @@ https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGd1Sj9H/huelva.jpg",HUELVA TV
 https://directo.huelvatv.com/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID INT
+https://github.com/pinkisso/mored/blob/main/res/26-1/tlmadint.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID INT
@@ -2203,6 +2213,10 @@ https://xddrts.alwaysdata.net/maroo22/maassadi.php?m3u8
 https://cdnet.alwaysdata.net/maroo22/matamaz.php?m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |TN:🇹🇳 TUNISIE| ---
 https://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIYA 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png",WATANIYA 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N22619Rm/Mosaiquetn.jpg",MOSAÏQUE FM TV TN
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cK7f5bsz/Jawhara.png",JAWHARA TV
@@ -2219,6 +2233,8 @@ http://5.253.46.190:8000/play/a0eu/index.m3u8
 http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhc4X4cr/wataniadz.jpg",WATANIYA DZ
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="18. |IL|🇮🇱 ISRAEL ישראל",KAN 11 כאן
