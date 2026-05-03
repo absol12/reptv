@@ -2092,7 +2092,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGd1Sj9H/huelva.jpg",HUELVA TV
 https://directo.huelvatv.com/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID INT
-https://github.com/pinkisso/mored/blob/main/res/26-1/tlmadint.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/tlmadint.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg",TELE MADRID INT
