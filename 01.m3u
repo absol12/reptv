@@ -916,7 +916,7 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Benguturk_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
@@ -948,7 +948,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Akit_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 http://65.108.239.207/ahaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
@@ -1009,6 +1009,8 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK (backup)
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK (backup)
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV (backup)
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24 (backup)
