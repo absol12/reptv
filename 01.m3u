@@ -135,7 +135,7 @@ https://raw.githubusercontent.com/BG47510/sniftv/refs/heads/main/a02/frinfo.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",FRANCE LA 1ÈRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📡",FRANCE LA 1ÈRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
@@ -1025,7 +1025,7 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",TRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -1053,7 +1053,7 @@ https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
-#EXTINF:-1 group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📀",---- Y E D E K L E R ----
+#EXTINF:-1 group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📡",---- Y E D E K L E R ----
 https://empty
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 (backup)
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
