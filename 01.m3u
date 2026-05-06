@@ -2467,9 +2467,9 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg" referer="https://tabie.net/",SYRIA TV
 https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0kQdg9X/syria2.png",SYRIA TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0kQdg9X/syria2.png" referer="https://tabie.net/",SYRIA TV 2
 https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0kQdg9X/syria2.png",SYRIA TV 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
@@ -2897,11 +2897,11 @@ https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA (backups)
 https://live-hls-apps-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA (backups)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" referer="https://tabie.net/",AL JAZEERA (backups)
 https://qmcconnect.qa/api/stream/aja/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM1FtVHQ/aljaz2.png",AL JAZEERA 2 (backups)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM1FtVHQ/aljaz2.png" referer="https://tabie.net/",AL JAZEERA 2 (backups)
 https://qmcconnect.qa/api/stream/aja2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA LIVE (backups)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" referer="https://tabie.net/",AL JAZEERA LIVE (backups)
 https://qmcconnect.qa/api/stream/ajm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER (backups)
 https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
@@ -3977,7 +3977,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS
 https://amg00222-amg00222c4-amgplt0011.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" referer="https://tabie.net/",AL JAZEERA NEWS 
 https://qmcconnect.qa/api/stream/aje/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
