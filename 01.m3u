@@ -2813,8 +2813,6 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png",MAJID
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png" user-agent="Mozilla/5.0" referer="https://starzplay.com/" drm="Widewine", drmkey="01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544",MAJID
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_dash/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cWRtp65/koogi.png",KOOGI TV
 https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yP1Xsj0/moonbug.png",MOONBUG KIDS
