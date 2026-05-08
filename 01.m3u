@@ -1647,8 +1647,8 @@ https://live.jintv.org/medialive/jintv.m3u8
 http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png" group-title="14. |GR|🇬🇷 GREECE Ελλά",ERT WORLD
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svg2hSqH/ertscosms.png" group-title="14. |GR|🇬🇷 GREECE Ελλά",ERT COSMOS
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg",ERT KIDS
