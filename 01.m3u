@@ -1795,6 +1795,14 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPkt9Yg/ertsports3.png",ERT SPORTS 3
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYMZh7V/ertsports2.png",ERT SPORTS 2
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPkt9Yg/ertsports3.png",ERT SPORTS 3
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports3/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPkt9Yg/ertsports3.png",ERT SPORTS 4
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports4/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png",BOYAH TV - KANALI VOULIS
 https://ert-live.ascdn.broadpeak.io/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 group-title="14. |GR|🇬🇷 GREECE Ελλά",--- |CY:🇨🇾 CYPRUS Κυπριακή| ---
