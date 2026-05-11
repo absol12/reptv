@@ -1787,8 +1787,18 @@ https://castor.streamthatvideo.co:8081/10channel/index.m3u8
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS (backup)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zbvFC65/ertkids.jpg",ERT KIDS (backup)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svg2hSqH/ertscosms.png",ERT COSMOS (backup)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1 (backup)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2 (backup)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjHZT7x/ert3.png",ERT 3 (backup)
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYMZh7V/ertsports2.png",ERT SPORTS 2
