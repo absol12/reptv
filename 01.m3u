@@ -280,6 +280,8 @@ https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsVfSmv/frdocs.png" group-title="4. |FR|🇫🇷 CULTURE - DÉCOUVERTE 🗺️🎋",FRANCE TV DOCS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/docs.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FESTIVAL DE CANNES [EVENT]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/tv-du-festival.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png",INA 70s
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/ina.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svWdczbW/ina.png",INA 70s
@@ -378,6 +380,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4DDfnCg/frsport.png" group-title="5. |FR|🇫🇷 SPORT - SÉRIES / FILMS 🤾‍♀️🎞️",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",ROLAND GARROS [EVENT]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/roland-garros.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/series.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
