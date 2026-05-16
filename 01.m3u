@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTM0LjM0IiwiY21jZCI6IiIsImV4cCI6MTc3ODk1NTQ5NywiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3Nzg5NDEwOTcsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.NPj2fcRIPmNwPBphkbdSffnwsnGbHOqq7seMDYq31po/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNzIuMjE1LjIxMC40OSIsImNtY2QiOiIiLCJleHAiOjE3Nzg5NTQ1MjYsImdpZCI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4IiwiaWF0IjoxNzc4OTQwMTI2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzJhNWVmMmE0Y2U0YTQxMjA5ZTBhODgxMDc0ZDE1OTMyL3RmMS1jbWFmIiwic3ViIjoiMTg2MTUxMDdhMjQwNDI4ODhhZTg0YzYwMmJlMDkzNjgifQ.cBQpW3Qz-hf_LCdfJMtaaTmEQCZSH9gweyS_iZc3WnA/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10d0c166a211-3106e40d-4d29-4e03-b038-008539ed5ce0&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
