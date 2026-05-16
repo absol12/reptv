@@ -209,7 +209,7 @@ https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=OABRNpnchaSh94j5RB3E6l-IZGt_h7pmpM4Mh2_NlsaosM-hkErebBFugctSPYLdNGGaB0im-FNR-80WOmOdu_O1HaU0Tk6ufOy-qxjWQkk
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=fNF1neyYrSLDgr7u8Bv2yZU0V4Qe2-gXpmAp5T61jyV_25KCZQj_8h6EC0LdcITZs0CKAuLoC7ydqRIJiov6_D1rOSHFwbF5hTxZZpXnANo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjHpFhyj/skyrockf.png",SKYROCK RAP
 https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01796-amg01796c37-amgplt0011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="Mozilla/5.0" referer="https://www.nrj.be/",NRJ BE
@@ -389,7 +389,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=WrBKwufLjiBY81fwZGZ_MgbTIMEKo-XYiQYnQ2JMvKXUfVGjJSKKu0oRehKQOuJkJrmmFW2gqE44rvfwC1TVHKDfuPiLCft5wALKQEnOE_w
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=xELltpMFQZ5-VbmHi15gZTKeI7wr0jMu1s0l69zvZQZh1e5eEfUFzwHoEP3g3NnCMhveZUApS4qQjl3mwH6g5tgNpcMoj9JEyv1fpSnUNVs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 2
