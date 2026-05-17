@@ -726,10 +726,6 @@ https://section
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" drm="ClearKey", drmkey="cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",LA UNE RTBF (backup)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nshpVDmy/tipik.png",TIP!K
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd#mode=Shaka
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nshpVDmy/tipik.png",TIP!K
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
@@ -1134,10 +1130,6 @@ https://trn03.tulix.tv/tv8-hd-tv/tracks-v1a1/mono.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup dup)
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup dup)
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D (backup dup)
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="9. |TR|🇹🇷 BELGESEL & YAŞAM 🗺️🎋",TRT BELGESEL
@@ -3026,10 +3018,6 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC AFLAM
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES ACTION
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES THRILLER
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GY8sL6y/tabiear.png",TABIE HIKAYAT
 https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2132774-n5968S2PR4891VB.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GY8sL6y/tabiear.png",TABIE NOW
