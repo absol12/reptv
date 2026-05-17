@@ -152,8 +152,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTM0LjM0IiwiY21jZCI6IiIsImV4cCI6MTc3ODk5ODY5NiwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3Nzg5ODQyOTYsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.Gz7RPkl5FAdAPuzcu2SWuymGivBIjJ8k7cGIYjABxks/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
 https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE ↺30MN
@@ -724,6 +724,12 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE RTBF
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" drm="ClearKey", drmkey="cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",LA UNE RTBF (backup)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nshpVDmy/tipik.png",TIP!K
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd#mode=Shaka
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nshpVDmy/tipik.png",TIP!K
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
@@ -768,6 +774,8 @@ https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/mlemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLyV7hjY/tvdch.png",TVD TV DÉCOUVERTE
 https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkkfbvLG/rts1ch.png",RTS 1
+https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CA-QC:🇨🇦 ZONE CANADA\QUÉBEC| ---
 https://section
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png",SAVOIR.MÉDIA
@@ -1039,7 +1047,7 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y-WpCsckrH_I9rN23qrOlQ&e=1779031195
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
@@ -2906,6 +2914,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPzRmd3/alistiqama.png",AL ISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZ5c6b3p/alabbassia.jpg",AL ABBASSIA
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp",SAT7 ARABIC
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0pWD9ZX/charity.png",CHARITY TV
@@ -2998,10 +3008,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC BOLLYWOOD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES ACTION
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES THRILLER
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC RABEH SAQER
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC FM LIVE TV
@@ -3012,10 +3018,18 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZBdqYD4/mbctalent.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC TALENTS
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",TARAB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC TARAB
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",AFLAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES ACTION
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES THRILLER
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC AFLAM
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES ACTION
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES THRILLER
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GY8sL6y/tabiear.png",TABIE HIKAYAT
 https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2132774-n5968S2PR4891VB.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GY8sL6y/tabiear.png",TABIE NOW
