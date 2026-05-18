@@ -202,10 +202,6 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailym
 https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRj1ZqhB/rmcdecou.png",RMC DÉCOUVERTE (backup)
 https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
-https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS (backup)
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/refs/heads/main/fr/videom6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
