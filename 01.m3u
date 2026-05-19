@@ -27,10 +27,6 @@ https://github.com/pinkisso/mored/raw/main/res/26-1/tvltvlib.ts
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
 https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
-https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8?content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
-https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYKgLYPV/frinter.png",FRANCE INTER DIRECT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycCyt780/sudrad.png",SUD RADIO STUDIO
