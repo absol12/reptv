@@ -25,6 +25,12 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 https://github.com/pinkisso/mored/raw/main/res/26-1/tvltvlib.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8?content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8?position=midroll&content_livestream=1&channel_name=RMCStory_all-LG_smartTV-Live&content_id=rmc_story_live_24_7&gdpr=[GDPR]&gdpr_consent=[GDPR_CONSENT]&env=smarttv&device_type=[DEVICE_TYPE]&did=[DEVICE_ID]&userid=[IFA]&ip=[IP]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&appVersion=[APP_VERSION]&ua=[UA]&url=[APP_STOREURL]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYKgLYPV/frinter.png",FRANCE INTER DIRECT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycCyt780/sudrad.png",SUD RADIO STUDIO
@@ -182,7 +188,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotfx.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/video6ter.m3u8
+https://raw.githubusercontent.com/kadadevelopers/live-m3u8/refs/heads/main/fr/video6ter.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvcLdXT/tfsf.png",TF1 SÉRIES FILMS
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
@@ -379,6 +385,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",ROLAND GARROS [EVENT]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/roland-garros.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg",ROLAND GARROS COURT [EVENT]
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/frolgar2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pgpbZhk/frseries.png",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/series.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
@@ -3382,7 +3390,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D2GvNMZ/syrialb.jpg",TV SYRI
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDMbdzKG/albmusic.jpg",ALB MUSIC
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkSFfsq7/albuk.jpg",ALB UK
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqWcMQ55/tvanews.png",TVA NEWS
