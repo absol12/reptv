@@ -1,0 +1,59 @@
+name: cmt
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "52 */1 * * *"
+
+jobs:
+  cmt-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Download from repo
+      env:
+        PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+      run: |
+        curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          https://api.github.com/repos/absol12/restv/contents/py/cmt.py \
+          -o cmt.py
+
+    - name: Run py and extract URL
+      id: extract
+      run: |
+        url=$(python3 cmt.py)
+        echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+    - name: Clean up cmt.py
+      run: rm -f cmt.py
+
+    - name: Replace in m3u
+      run: |
+        tmc_line=$(grep -n 'TMC' 01.m3u | cut -d: -f1)
+        if [ -n "$tmc_line" ]; then
+          new_line_num=$((tmc_line + 1))
+          sed -i "${new_line_num}s|.*|$FINAL_URL|" 01.m3u
+        else
+          echo "[-] CMT not found in 01.m3u"
+        fi
+
+    - name: Commit and push updated 01.m3u
+      run: |
+        git config user.name "cmt boot"
+        git config user.email "<>"
+        git add 01.m3u
+        git commit -m "cmt update"
+        git push origin main
+      continue-on-error: true
