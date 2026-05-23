@@ -1,0 +1,60 @@
+name: murlb
+
+on:
+  schedule:
+    - cron: '34 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "murlb bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install requests module
+        run: python3 -m pip install requests
+        
+      - name: Download from repo
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          curl -s -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/absol12/restv/contents/py/murlb.py \
+            -o murlb.py
+
+      - name: Run py and extract URL
+        id: extract
+        run: |
+          url=$(python3 murlb.py)
+          echo "FINAL_URL=$url" >> $GITHUB_ENV
+
+      - name: Clean up murlb.py
+        run: rm -f murlb.py
+
+      - name: Replace Text
+        run: |
+          sed -i "/MURR MTV LBN/{n;s|.*|"$FINAL_URL"|}" 01.m3u
+
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git add 01.m3u
+          git commit -m "murlb updated"
+          git push
