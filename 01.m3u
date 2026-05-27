@@ -102,7 +102,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR (backup)
-https://arkina1234.github.io/ext/hls/france24-fr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO (backup)
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
@@ -3247,6 +3247,12 @@ https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",ORF 3
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |SI:🇸🇮 SLOVENIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMy5jnP0/slo1.png",TV SLO 1
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5J6Gdvg/slo2.png",TV SLO 2
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |PL:🇵🇱 POLONIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cPg4sDK/tvpolonia.png",TVP POLONIA
