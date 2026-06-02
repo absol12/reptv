@@ -433,6 +433,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/leq
 https://amg01444-amg01444c7-samsung-fr-6370.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH FR
 https://amg01444-amg01444c7-lg-fr-8031.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelfrance-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CH INT
+https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS PLUS
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ5gkJZ/Tennisfr.jpg",TENNIS CLASSICS
@@ -727,6 +729,8 @@ https://section
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" drm="ClearKey", drmkey="cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",LA UNE RTBF (backup)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" drm="ClearKey", drmkey="cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986",LA UNE RTBF (backup)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/abbf72be.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
@@ -3785,6 +3789,8 @@ https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 http://41.205.93.154/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
+https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/playlist/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
