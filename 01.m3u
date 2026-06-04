@@ -135,6 +135,8 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 https://raw.githubusercontent.com/BG47510/sniftv/refs/heads/main/a02/frinfo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO: (backup)
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT. (backup)
+https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR (backup)
 https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8
 
@@ -3283,7 +3285,7 @@ http://blank
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LV:🇱🇻 LETONIA| ---
 http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",LV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8FPCcKG/lv1.png",LV 1
 https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LT:🇱🇹 LITHUANIA| ---
 http://blank
@@ -4127,9 +4129,3 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 01
 http://indisponible
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
-https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
-https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY&pb_type=pb-a4jidv0z7fekj_cloudfront
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
-https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY&ads.ssai_vendor=SSSLIVE&pb_type=pb-a4jidv0z7fekj_cloudfront
