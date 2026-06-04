@@ -258,7 +258,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c",GULLI
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+https://origin-drp-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
