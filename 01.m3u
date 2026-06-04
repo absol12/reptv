@@ -954,7 +954,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhcxMxJ9/telenews.png",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png",İLKE
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
@@ -1335,6 +1335,8 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bizim_Ev_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
 https://tv.cemtv.net/cemtv/cemtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM D ANADOLU TV
+https://tv.cemtv.net:19360/danadolutv/danadolutv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz9m8HdG/sutv.jpg",SU TV
 https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD6873K/yolred.png",YOL TV
@@ -1695,6 +1697,8 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR CGR
@@ -3037,6 +3041,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZBdqYD4/mbctalent.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC TALENTS
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZBdqYD4/mbctalent.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35Nb2wbP/tarab.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC TARAB
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC MOVIES ACTION
@@ -3177,8 +3183,12 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/sportitalia.png",SPORT ITALIA
 https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/sportitalia.png",SPORT ITALIA
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg",SPORT ITALIA CALCIO
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg",SUPER TENNIX ITALIA
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png",RTV S.MARINO
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/go-tv.png",GO-TV
@@ -3271,6 +3281,14 @@ https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r29pMj4B/Ylew.png",YLE TV WORLD
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LV:🇱🇻 LETONIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",LV 1
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LT:🇱🇹 LITHUANIA| ---
+http://blank
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WzpFycZ/lrtlitu.png",LRT TV
+https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |AT:🇦🇹 AUSTRIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2XDMZCm/orfat.png",ORF 3
@@ -3305,10 +3323,6 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PL
 https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8
-#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |LT:🇱🇹 LITHUANIA| ---
-http://blank
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WzpFycZ/lrtlitu.png",LRT TV
-https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |CZ:🇨🇿 CEZCH REPUBLIC| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3RNJgQH/ct1.png",CT 1
@@ -4113,3 +4127,9 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 01
 http://indisponible
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY&pb_type=pb-a4jidv0z7fekj_cloudfront
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
+https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY&ads.ssai_vendor=SSSLIVE&pb_type=pb-a4jidv0z7fekj_cloudfront
