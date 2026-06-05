@@ -2246,21 +2246,21 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
-https://cdnet.alwaysdata.net/marok98/malaayoune.php?m3u8
+https://cdnet.alwaysdata.net/marok65/malaayoune.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/marok98/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/marok65/maaloula.php?m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
-https://xddrts.alwaysdata.net/marok98/maarry.php?m3u8
+https://xddrts.alwaysdata.net/marok65/maarry.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/marok98/maarrytnt.php?m3u8 
+https://cdnet.alwaysdata.net/marok65/maarrytnt.php?m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ATHAQAFIA الثقافية
-https://cdnet.alwaysdata.net/marok98/maarrabia.php?m3u8
+https://cdnet.alwaysdata.net/marok65/maarrabia.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://xddrts.alwaysdata.net/marok98/mamaghribia.php?m3u8
+https://xddrts.alwaysdata.net/marok65/mamaghribia.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/marok98/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/marok65/maassadi.php?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/marok98/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/marok65/matamaz.php?m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIYA 1
