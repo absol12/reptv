@@ -174,7 +174,7 @@ https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
-https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjEwOCIsImNtY2QiOiIiLCJleHAiOjE3ODE2MDE0OTksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzgxNTg3MDk5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzQ0ZmNiMWM3NzYyODRmMmRhN2MxMWVmOTQ4ZDdlZjM0L3RtYy1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.CfLJlHdtV2HX8NbtdcKh9XxIQ-fQGgdORM7XWKpqiLg/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
+https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjEwOCIsImNtY2QiOiIiLCJleHAiOjE3ODE2MjMxMDQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzgxNjA4NzA0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzQ0ZmNiMWM3NzYyODRmMmRhN2MxMWVmOTQ4ZDdlZjM0L3RtYy1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.-aHtFfulOCJTmxhcXt9wmeSohMpiCConYmRE-v_fcNM/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
