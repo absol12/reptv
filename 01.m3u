@@ -15,9 +15,9 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT EN FRANÇAIS
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI CANADA QUÉBEC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE ROMANDE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN 24 BELGIQUE [GEO-BLCK]
 https://live-ln24.digiteka.com/1911668011/index.m3u8
@@ -761,17 +761,17 @@ https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/9
 https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png",BRABANT WALLON TVCOM
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
-#EXTINF:-1,BX1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynbptC8y/bx1.jpg",BX1 BRUXELLES INFO
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
-#EXTINF:-1,BOUKE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0jz90j/bouke.jpg",BOUKÈ
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
-#EXTINF:-1,TELE MB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg",TÉLÉ MB
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
-#EXTINF:-1,TELE SAMBRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gczbQk/sambre.png",SAMBRE CHARLEROI
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:-1,TV LUX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png",TV LUX
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
-#EXTINF:-1,ACTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2F48hsL/actv.png",ANTENNE CENTRE
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
 https://section
@@ -3981,6 +3981,8 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 http://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8?ads.xumo_channelId=99991220
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rH3FDN2/cheddar.jpg",CHEDDAR NEWS
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rH3FDN2/cheddar.jpg",CHEDDAR NEWS
+https://hls.livecdn.io/cheddar.com/cheddarTS_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX
