@@ -1913,9 +1913,9 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/tvi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/tviint.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (WORLD CUP CUT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (WORLD CUP CUT) Soon Back
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (WORLD CUP CUT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (WORLD CUP CUT) Soon Back
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN PORTUGAL
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/cnnpt.m3u8
@@ -2328,9 +2328,9 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png",MEDI 1 AF العربية
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA LAÂYOUNE الأولى
-https://cdnet.alwaysdata.net/marok65/malaayoune.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/marok65/maaloula.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA 1 الرياضية
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA 2 الرياضية
@@ -2338,17 +2338,17 @@ https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA 3 الرياضية
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
 #EXTINF:-1 user-agent="Mozilla/5.0" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA الرياضية
-https://xddrts.alwaysdata.net/marok65/maarry.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=arryadia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
 https://cdnet.alwaysdata.net/marok65/maarrytnt.php?m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png",ATHAQAFIA الثقافية
-https://cdnet.alwaysdata.net/marok65/maarrabia.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=arrabia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png",AL MAGHRIBIA المغربية الإخبارية
-https://xddrts.alwaysdata.net/marok65/mamaghribia.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png",ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/marok65/maassadi.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/marok65/matamaz.php?m3u8
+https://snrtworker.kharazbelaid.workers.dev/?id=tamazight.m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIYA 1
