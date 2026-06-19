@@ -202,8 +202,10 @@ https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRj1ZqhB/rmcdecou.png",RMC DÉCOUVERTE (backup)
 https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (backup)
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 MÉTROPOLE
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 INT. MONDE
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS
 https://gitlab.com/-/snippets/6000777/raw/main/6m.m3u8
@@ -218,7 +220,7 @@ https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=avJ9qsbnC6XxTVCKMLxoU2-jkRuY4KgfNxR4F8nHiBEHZ_pzjhuDLAkYfSjKJK5ookK_x4wE_uChocQ7RsNvSCMSdBL9JRAyHD-ErFj7LVg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/fun-radio-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjHpFhyj/skyrockf.png",SKYROCK RAP
 https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01796-amg01796c37-amgplt0011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfT1q1Dm/nrjj.jpg" user-agent="Mozilla/5.0" referer="https://www.nrj.be/",NRJ BE
@@ -398,7 +400,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=TZoClw_ANCRhGllUFDZNeuSYcZaD_nL7V01YDOfoAXSHOr9RXYhSYN0rkzggEh4qgVuIlMUPAtxGYimCAi3FXKAeuRxtKPiQjL91u_kNgm0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/sport-en-france-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 2
@@ -1923,6 +1925,8 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN BRAZIL
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gDFmb2z/vplustvi.png",TVI V+
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/tvimai.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO
