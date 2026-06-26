@@ -3654,19 +3654,17 @@ https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="29. |IR|🇮🇷 IRAN",IRIB 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/tv1/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png",IRIB 2
-https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/tv2/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png",IRIB 3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png",IRIB 3
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/tv3/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png",IRIB 4
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png",IRIB 4
-https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png",IRIB 5 TEHRAN
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png",IRIB 5 TEHRAN
