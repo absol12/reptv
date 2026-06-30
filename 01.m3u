@@ -1214,6 +1214,8 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8 BUÇUK
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/shmax.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -1355,6 +1357,10 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/shturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RnLJpf/agro.png",AGRO TV
@@ -1636,9 +1642,9 @@ https://live.euromediacenter.com/bozkurttv/index.m3u8
 #EXTINF:-1 group-title="13. |TR|🇹🇷 YEREL - BÖLGESEL 🏞️🏢",--- |KKTC: KUZEY KIBRIS| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 1
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=575af483b73a7e1874add233dc58aae1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 2
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KANAL T
