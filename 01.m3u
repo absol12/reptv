@@ -2429,7 +2429,7 @@ https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",CH ערוץ 16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",ARUTZ ערוץ 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png",HINUCHIT 23 חינוכית
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
