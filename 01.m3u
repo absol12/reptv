@@ -619,10 +619,12 @@ https://srv.webtvmanager.fr:3225/stream/play.m3u8
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" referer="https://player.castr.com/",TV VENDÉE
 https://stream.castr.com/65007e17d53b82677257fa93/live_811ab8e05c9511f0a342e102693c1a5b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDÉE
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCEw9gcSDo-LlC0ci60bl-Rg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png",7A LIMOGES
-https://tvradiozap.eu/tools/yt-m3u8.php/@7alimoges.m3u8
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x5gv5v0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/61mqv2h/biptv.png",BIP TV
@@ -634,9 +636,9 @@ https://video.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YLL42C6/iltv.png",IL TV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",MOSELLE TV
-https://indisponible
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x9lgbik.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9VrjLFT/tv7b.png",TV7 BORDEAUX
-https://indisponible
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCV9yrdAfyd1BdDyd4tDdVxg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6x3fxq/tv7colm.png",TV7 COLMAR
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2nG96GF/tv3v.png",TV 3V
@@ -652,7 +654,7 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGNTppx/nancyweb.jpg",NANCY WEB TV
 https://edge12.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png",MAURIENNE TV
-https://indisponible
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png",TÉLÉ GOHELLE
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png",TVPI BAYONNE
@@ -670,15 +672,15 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYJL1N7/tarn.png",TV TARN
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png",MOSAIK CRISTAL TV
-https://indisponible
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png",TV8 MONTBLANC
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x3wqv8b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDRB1fK/tvtloire.png",TVT TOURS
 https://live-tvtours.digiteka.com/1982825398/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM2Y7TV/angtl.jpg",ANGERS TÉLÉ
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/angerstele.m3u8
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x8r7256.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NX9rPp/lyoncap.png",LYON CAPITALE TV
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/lyoncapitale.m3u8
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x7z3zqa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2VX7Wj/tlcholt.png",TL CHOLETAIS
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/TLCholet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S0X9VM8/brion.jpg",BRIONNAIS TV
@@ -690,7 +692,7 @@ https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png",TÉLÉ GRENOBLE
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png",LM TV SARTHE
-https://indisponible
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCidJ6dBJ7oEfdAVzqaL2nSg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qs2HxR/astv.png",ASTV
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/ASTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png",TL7 LOIRE
