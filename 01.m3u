@@ -216,7 +216,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/ey.alelouiya/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC41NS44Ny4xNTAiLCJjbWNkIjoiIiwiZXhwIjoxNzgzMDY2Mzc1LCJnaWQiOiIxODYxNTEwN2EyNDA0Mjg4OGFlODRjNjAyYmUwOTM2OCIsImlhdCI6MTc4MzA1MTk3NSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjE4NjE1MTA3YTI0MDQyODg4YWU4NGM2MDJiZTA5MzY4In0.Bqqr3eRoYwqxJ2rEQQGjGfrDi3YQ7NbWec3oECDaU5w/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_sessionid=10e0a202d2-ccf6cf9b-f0b9-4ba3-8201-71fe5ae94060&bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&category=all
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE ↺30MN
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 
