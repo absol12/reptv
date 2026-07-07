@@ -213,6 +213,8 @@ https://gitlab.com/-/snippets/6000777/raw/main/6m.m3u8
 https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6 (backup)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (secure)
+https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
@@ -2054,6 +2056,8 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg",TVE LA 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
@@ -2061,6 +2065,8 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqg1vfr/24h.png",TVE 24 H
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3T2TS2p/tvestar.jpg",STAR TVE
@@ -2079,6 +2085,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg",TVE CLAN
@@ -2137,6 +2145,8 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS ESPAÑOL
 https://stream-193277.castr.net/638b849cf500d54e8db17683/live_2f8d8b103b1611f09930bbe09ee3178f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spdXw04k/rcn-noticias.jpg",RCN NOTICIAS
+https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png",TRECE INT
@@ -2303,6 +2313,10 @@ https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrmnPv05/bilbao.png",TELE BILBAO
 https://player.telebilbao.es/hls/web-public/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE EXITOS
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE HITS ACCION
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 ES
@@ -2315,6 +2329,10 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pRYF5QL/hispantv.png",PRESS HISPAN TV
 https://live.presstv.ir/hls/hispantv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPY9mPdr/ewtnesp.jpg",EWTN ESP
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPY9mPdr/ewtnesp.jpg",EWTN ESP
+https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN EN ESPAÑOL
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN EN ESPAÑOL [geoblocked]
