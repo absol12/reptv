@@ -1150,6 +1150,8 @@ http://95.174.71.114/TR-STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
+https://dogus.daioncdn.net/startv/startv.m3u8?&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR (backup)
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
@@ -3617,6 +3619,8 @@ http://blank
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 1TV პირველი არხი
 https://tv.nucast.tv/lb/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
 https://tv.nucast.tv/lb/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",GPB 2TV
@@ -3625,8 +3629,12 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/gpbhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",IMEDI
+http://nue01-edge01.itdc.ge/imedihd/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/rustavi2hqnew.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",RUSTAVI 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",PALITRA
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",FORMULA
@@ -3641,6 +3649,8 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tvmze.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",EURONEWS GE
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/euronewsgeorgia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",EURONEWS GE
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",ERTSULOVNEBA
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/ertsulovneba.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png",TV25
