@@ -2566,7 +2566,7 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msg
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="19. |LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",MURR MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=0SuQoceoBtNrDVV_SwcA6Q:r0W1YfZXf5z_a68423umlWqXq13kLJty7YtN-L1pK-mDEmTZT6szUlqB9_ZB6Rb6avJlgOdi1jCEiiDbHGonlZUo9-5uAqlDAk1a9-HAXUgjfbYVRw_n7ZLkZWtZafHkbP0c7npkD9nlrwp_hwtxXdydHIzvZM-7Hudvn_kEebMlJ4us6sKOrZsekwPH6_kb4j7JMIyilk98Ol-rKFpxdQwJIO5nReMWLFOKtcrmqoNFO9yeC4mOPI9LE9MOIgsZ
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=BxBi5sTP41gI3XUA2mD06g:v33MjhomAIlXHvtG5jp_0oXA91SLHGUb8-TDPaUgvEQPoc5sfd5aZi1cuRACO68CtyW1NCgQ2J1d3lJ9uhkvjCvdVf8yhhcW5r3Uk1_SGNIZzUR0xfOQubfr14pP4i0brhuVouSxEZcE8xlvB-8XE4RRyAPx75yaGLEcxDpPRjED-2XrMhKTUZ6EJOBTsmsH3s8Gl5zWqxqjsGSMiB6RGRmt1Bi1RsoE6cNETZZ2JO8ejFWEDYk7u_XcdWXB6SHQ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MURR LBN
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE LBN
