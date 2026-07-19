@@ -2413,6 +2413,8 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ma/assadissa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png",TAMAZIGHT الأمازيغية
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ma/tamazight.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png",MOROCCO NEWS
+http://185.9.2.18/chid_205/index.m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |TN:🇹🇳 TUNISIE| ---
 https://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIYA 1
@@ -2714,9 +2716,11 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playli
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SYvz5YT/masriya.jpg",AL MASRIYA TV
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
+http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMm9t2ZK/niletv.png",NILE TV
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPnBtm3X/samara.png",SAMARA WEB
+https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png",KAB 1
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFZ3kZj/alwousta.png",AL WOUSTA
@@ -3675,6 +3679,8 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 NEWS
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",H1 ARM INT
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",FRESH ARM
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png",ARTN SHANT
