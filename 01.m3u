@@ -2045,6 +2045,10 @@ https://sic.live.impresa.pt/sic.m3u8
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_ipncecrg/deliveryProfileId/25742/protocol/https/format/mpegdash/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" user-agent="Firefox" referer="https://sic.pt/" origin="https://sic.pt",SIC (off backup)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (backup)
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_ipncecrg/deliveryProfileId/25732/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (backup)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/4878d85bebb54f2fb444341bae34692f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" user-agent="Firefox" referer="https://sicnoticias.pt/" origin="https://sicnoticias.pt",SIC NOTÍCIAS [geoblocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" referer="https://sic.pt/",SIC OPT. (backup)
