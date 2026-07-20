@@ -215,6 +215,22 @@ https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-shor
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (secure)
 https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 MÉTROPOLE (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/m61.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="4a7997b47edc3124a6c51651fea26470:90154d0a7f4f5ba772911bb72c76c86e",M6
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N1/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="4a7997b47edc3124a6c51651fea26470:90154d0a7f4f5ba772911bb72c76c86e",M6
+https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N3/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",M6
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",M6
+https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",M6
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",M6
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
@@ -2039,6 +2055,12 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" user-agent="Firefox" referer="https://sic.pt/" origin="https://sic.pt",SIC [geoblocked]
 https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" drm="ClearKey", drmkey="e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" drm="ClearKey", drmkey="e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39",SIC
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_ipncecrg/deliveryProfileId/25742/protocol/https/format/mpegdash/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" user-agent="Firefox" referer="https://sic.pt/" origin="https://sic.pt" drm="ClearKey", drmkey="e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39",SIC (backup)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" user-agent="Firefox" referer="https://sicnoticias.pt/" origin="https://sicnoticias.pt",SIC NOTÍCIAS [geoblocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" referer="https://sic.pt/",SIC OPT. (backup)
