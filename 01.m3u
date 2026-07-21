@@ -2160,7 +2160,7 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xh76zN/parl.jpg",CANAL DIPUTADOS
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS ESPAÑOL
-https://stream-193277.castr.net/638b849cf500d54e8db17683/live_2f8d8b103b1611f09930bbe09ee3178f/index.m3u8
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spdXw04k/rcn-noticias.jpg",RCN NOTICIAS
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png",SOL MÙSICA
@@ -3018,7 +3018,7 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzGJwxY1/shams.jpg",SHAMS TV
 https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS ARABIC
-https://nowarhls.wns.live/hls/stream.m3u8
+https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDC5cBX/alalam.png",AL ALAM IR
@@ -4107,6 +4107,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS USA
 https://nowushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRcZNxdk/nownews.png",NOW NEWS USA
+https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
