@@ -2519,8 +2519,8 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYtP8fm/arutz9ru.png",ISRAEL 9TV канал
 https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 אפיק
-https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yjTszg/kan26.png",KAN 26 שמות הנופלים
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/popup1_noflim/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 HEB
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93bQz4t/kabalah.png",KABBALAH 96 HEB
