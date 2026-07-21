@@ -154,7 +154,7 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 TNT
-https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjEwOCIsImNtY2QiOiIiLCJleHAiOjE3ODQ2MzYyOTcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzg0NjIxODk3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvcHJvZC9URjEvY21hZi9vdXQiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.WHrj5IPF3MActsXjhDAGFR4H9xF0_8Xh8_QZge68ojk/prod/TF1/cmaf/out/TF1.m3u8
+https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNTkuMjYuMTEyLjEwOCIsImNtY2QiOiIiLCJleHAiOjE3ODQ2NDcwOTksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzg0NjMyNjk5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvcHJvZC9URjEvY21hZi9vdXQiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.kHWo9ngQgOuq-CuR_reYFwA3SDhY09RVrnn2UEkHZvo/prod/TF1/cmaf/out/TF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="9a10e8caf30a360880dfb6c5b0b741a6:98e29a3c85d348c950925055f60764c3",M6 MÉTROPOLE
