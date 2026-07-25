@@ -437,6 +437,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21LVwZ0S/rbtv.png",RED BULL EN DIRECT
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/rougeboule.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21LVwZ0S/rbtv.png",RED BULL EN DIRECT
+https://aka-live1050.delivery.roku.com/0ad626c0-5e48-4779-a204-0263cdfef356/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21LVwZ0S/rbtv.png",RED BULL EN DIRECT
+https://jmp2.uk/stvp-ES3800001V1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ FR
