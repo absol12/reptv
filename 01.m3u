@@ -22,7 +22,7 @@ https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN 24 BELGIQUE [GEO-BLCK]
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS [PROMO]
-https://video.twimg.com/amplify_video/2058475935494471681/pl/sBNd1gIm_tEXZxec.m3u8?tag=14&variant_version=1
+https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
@@ -141,6 +141,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-a4jidv0z7fekj/BRUT_FR.m3u8?ads.ads_cdn=cf&ads.cdn=cf&ads.service_id=FR700007HY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR (backup)
 https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS [PROMO] (backup)
+https://video.twimg.com/amplify_video/2058475935494471681/pl/sBNd1gIm_tEXZxec.m3u8?tag=14&variant_version=1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📡",FRANCE LA 1ÈRE
