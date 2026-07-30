@@ -203,6 +203,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailym
 https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRj1ZqhB/rmcdecou.png",RMC DÉCOUVERTE (backup)
 https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9 (backup)
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (backup)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 MÉTROPOLE (offdown)
@@ -1317,7 +1319,11 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 http://116.202.238.88/ASPOR_TR/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="11. |TR|🇹🇷 MÜZİK 🎵🎺",POWER TÜRK TAPTAZE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="11. |TR|🇹🇷 MÜZİK 🎵🎺",SPOTIFY TUR • 2026 👍🔥
+https://github.com/pinkisso/mored/raw/main/res/26-2/trlist26.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TUR • TRLIST 👤🎧
+https://github.com/pinkisso/mored/raw/main/res/26-2/trlistpr.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png",POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
