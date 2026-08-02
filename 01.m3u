@@ -3113,6 +3113,8 @@ https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd5d2K8X/alaimma.png",AL AIMMA TV
 https://alaimma.tv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4dgJKbg/Alwesam.jpg",AL WESAM SA
+https://stream.addresses-sat.com/Alwesam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",AL EKHBARIA
