@@ -2475,10 +2475,10 @@ https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 sub-cc כאן
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv",KESHET 12 קשת
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/k12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv",KESHET 12 sub-cc קשת
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/k12cc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12wad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
@@ -2493,8 +2493,8 @@ https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYB26T/h2322.png",HINUCHIT 23 חינוכית
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" user-agent="SmartOs Tv",MAKO 24 ערוץ
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/ch24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" user-agent="SmartOsTV",TELAD 24 ערוץ
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/t24.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png",CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO (part-time)
@@ -2509,20 +2509,22 @@ https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/in
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg",RESHET 13 REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k644c1S3/eretz.jpg" user-agent="SmartOs Tv",KESHET 12 ERETZ COUNTRY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k644c1S3/eretz.jpg" user-agent="SmartOsTV",MAKO ERETZ COUNTRY (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/erets.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwVvjgWn/savri.jpg" user-agent="SmartOs Tv",KESHET 12 SAVRI MARNAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwVvjgWn/savri.jpg" user-agent="SmartOsTV",MAKO SAVRI MARNAN (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/savri.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvXmDXdW/hatunami.jpg" user-agent="SmartOs Tv",KESHET 12 HATUNA WEDDING
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvXmDXdW/hatunami.jpg" user-agent="SmartOsTV",MAKO HATUNA WEDDING (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/hatuna.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VcQcGr6y/kohav.jpg" user-agent="SmartOs Tv",KESHET 12 KOHAV STAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcQcGr6y/kohav.jpg" user-agent="SmartOsTV",MAKO KOHAV STAR (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/kohav.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qF5Zvwgt/ninja.jpg" user-agent="SmartOs Tv",KESHET 12 NINJA ISR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF5Zvwgt/ninja.jpg" user-agent="SmartOsTV",MAKO NINJA ISR (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/ninja.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
 https://live.wcdn.co.il/news/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET NEWS 12 קשת 
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/n12rh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS EN
@@ -2563,9 +2565,9 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת (backup)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv",KESHET 12 קשת (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 N12 קשת (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/n12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOs Tv",KESHET 12 קשת (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 N12B קשת (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/n12b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת (backup)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
