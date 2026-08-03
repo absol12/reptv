@@ -2523,7 +2523,7 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/ninja.m
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
 https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET NEWS 12 קשת 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyRLwRn/n1222.png" user-agent="SmartOsTV",KESHET NEWS 12 קשת 
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/n12rh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
