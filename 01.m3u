@@ -2478,7 +2478,7 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12wad.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
@@ -2565,6 +2565,8 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png",KESHET 12 קשת (backup)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12wad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 N12 קשת (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/n12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 N12B קשת (disoutoff)
