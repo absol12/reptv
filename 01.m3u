@@ -1318,9 +1318,9 @@ http://116.202.238.88/ASPOR_TR/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="11. |TR|🇹🇷 MÜZİK 🎵🎺",SPOTIFY TUR • 2026 👍🔥
-https://github.com/pinkisso/mored/raw/main/res/26-2/trlist26.ts
+https://video.twimg.com/amplify_video/2084258034658799616/pl/avc1/1280x720/CsIMbUGFLyw6iVis.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TUR • TRLIST 👤🎧
-https://github.com/pinkisso/mored/raw/main/res/26-2/trlistpr.ts
+https://video.twimg.com/amplify_video/2084258527325863937/pl/avc1/1280x720/Qq7MA78s8ejPjMFH.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png",POWER TÜRK SLOW
