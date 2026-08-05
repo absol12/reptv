@@ -7,7 +7,7 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxgyM8r8/tv5minfo.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/sud-radio-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 RADIO TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2gSyq6m/finford.png",FRANCE:INFO RADIO VIDÉO
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/frinford.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png",LCP-AN / PS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME
@@ -93,6 +95,8 @@ https://live-cdn-bfm2-lg-fr-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
 https://live-cdn-bfmbusiness-lg-fr-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS (backup)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR (backup)
@@ -159,7 +163,7 @@ https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6 MÉTROPOLE
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHFP7bcQ/tv5mfbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/canalplusclair-hd.m3u8
@@ -239,6 +243,10 @@ https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playli
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",ÉMOTION BY MÉLODY
+https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K8XmqHm/zikcg.png",ZIK MUSIQUE
+https://vdo3.pro-fhi.net:3558/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
@@ -265,6 +273,8 @@ https://d1f0sy6q94jy8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2Z50vtt/qwest.png",QWEST JAZZ
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tPwpDnM/raku.png",METAL ROCKS RAKUTEN
+https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",CLASSICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",DJAZZ
@@ -278,7 +288,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nshpVDmy/tipik.png",TIP!K
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
-https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://origin-drp-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" drm="ClearKey", drmkey="05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c",GULLI
 https://origin-drp-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
@@ -293,6 +305,16 @@ https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/p
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mx8Hw9j/teefr.png",TEENS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkZ9fckv/pluto.png",RÉTRO TOONS PLUTO
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMw4wpng/caillou.png",CAILLOU
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjn9rWTP/adn.png",ADN
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfFGKJrK/100kids.png",100% KIDS
+https://amg02162-amg02162c4-samsung-fr-10083.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-kidschannel-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4hvzb62/supertoons.jpg",SUPER TOONS
+https://d37aiu112stb78.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l64mdrsnz9wn3/feed/samsung/streams/SUPERTOONS_FR/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN (backup)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN (backup)
@@ -325,8 +347,20 @@ https://live-cdn-technco-lg-main-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 http://dyc8bdiow0oz1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/85ac8883-2de0-4285-8f27-9d97857c45ad/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbPRhH6m/artevoy.jpg",ARTE VOYAGE
+https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21nKSHb5/scifiraku.jpg",SCI-FI RAKUTEN
+https://sci-fi-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7161/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mYFNW4H/rustica.png",RUSTICA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7761
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkZ9fckv/pluto.png",ANIMAUX PLUTO
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHNW8nQN/scrtreg.jpg",SECRETS DES RÉGIONS
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz7QZFTb/sciencevie.jpg",SCIENCES ET VIE 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz7QZFTb/sciencevie.jpg",SCIENCES ET VIE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10058
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0Y0BwKt/culpub.png",CULTURE-PUB TV
 https://amg02232-botravail-amg02232c3-samsung-fr-432.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02232-botravail-culturepub-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHF5PHD4/Mieux.png",MIEUX TV
@@ -477,28 +511,56 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png",CINÉ WESTERN
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQ8YXbnm/plfrcoll.jpg",PL FRENCH COLLECTION
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN TOP FILMS
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN ACTION FILMS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN ACTION
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN COMEDY FILMS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN COMEDIES
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN DRAMA FILMS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN CRIME
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN DRAMES
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN FAMILLE
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN ROMANCE
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN THRILLERS
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png",RAKUTEN TOP FILMS 
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh0Knbnm/Brefcine.png",BREF CINÉMA
 https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png",ACTION TOTALE ADRÉNALINE
 https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjfcpDMC/100cine.png",100% CINÉMA
 https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4b11JFZ/100comed.jpg",100% COMEDIE
+https://amg02393-amg02393c10-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02393-amg02393c10-amgplt0165/playlist.m3u8?ads_amagi_channel_id=109
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RmCWTd7/cdrama.png",C-DRAMA NOW
+https://c-drama-now-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-smg-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bkYCb1f/crimescn.png",CRIME SCENE
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994448
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC SERIES
+https://amg00793-amg00793c28-samsung-fr-4957.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrancesamsungfrance-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSd7JFGq/lovecrimehist.jpg",LOVE CRIME HISTORY
+https://d2m0unh5d7jde4.cloudfront.net/playlist/amg01821-lovetvfast-lovecrimeandhistoryfrance-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxvp0jxR/cine-scifi.jpg",CINE SCI-FI
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5g0RHKZ/bingewt.jpg",BINGE WATCH
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992205
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tPwpDnM/raku.png",FILM RISE SERIES
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDhGvxz7/emol.jpg",EMOTION'L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fBm97MK/filmrise.avif",FILM RISE
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992503
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XqTwYC1/samsun.png",MOVIESPHERE AWS
+https://amg00353-amg00353c72-samsung-fr-10408.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatetvfast-moviespherefravtt-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE HITS ACTION
@@ -529,8 +591,40 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1 SPOTLIGHT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13956
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqXrTYX1/lg1.png",LG 1+1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycVXrz24/vikirak.png",VIKI RAKUTEN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13551
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkZ9fckv/pluto.png",FRENCH COLLECTION PLUTO
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png",ACTION TOTALE
+https://pb-dklcfpa8kwk0j.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dklcfpa8kwk0j/master.m3u8?ads.ads_cdn=ak&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxScZcQD/boxoffact.png",BOX OFFICE ACTION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLd0qtKr/boxoffdra.png",BOX OFFICE DRAMA
+https://dbhl9xt4ay3lq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el0y7yl75ynke/bodrm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21c2QcYm/boxoffthr.png",BOX OFFICE THRILLER
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15046
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqx1xkHB/traillers.jpg",TRAILLERS
+https://amg01821-lovetvchannels-lovemagazinefr-samsungfr-3s8nt.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinefr-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JX2hNSY/rntme.jpg",RUN:TIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsVjrcPR/topscifi.jpg",TOP SCI-FI
 https://amg01796-amg01796c14-samsung-fr-5846.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-topscifi-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",NOOVO CINEMAS
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",NOOVO COMEDIES
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4npJcFhs/noovooo.png",NOOVO TELEREALITE
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",PASSION BOLLYWOOD
+https://d30nk0rfmci3c2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0spvfjnrozo2/PassionBollywood_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",PASSION NOVELAS
+https://d18gemy7v2tebj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0n7p3ckq9ethd/PassionNovelas_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELEVISA NOVELA
+https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA
+https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",FREQUENCE NOVELAS
@@ -628,7 +722,7 @@ https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png",TVR RENNES
 https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5mwn8j2/bordotv.png",BORDO TV
-https://srv.webtvmanager.fr:3463/stream/play.m3u8
+https://e-tv.digicomedia.net:3730/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCB3X1Hm/bordosport.png",BORDO SPORT
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TÉLÉ NANTES
@@ -643,8 +737,8 @@ https://indisponible
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/7alimoges.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png",ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/61mqv2h/biptv.png",BIP TV
-https://indisponible
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFWG1Jw2/bipberre.png",BIP BERRE
+https://hls-biptv.archistream.live/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png",CANAL 32
 https://edge17.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png",CANAL 32
@@ -801,8 +895,10 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES 🏞️🏢",--- |CH:🇨🇭 BASSIN SUISSE ROMANDE| ---
 https://section
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg",LÉMAN BLEU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQb8zFT/lemanbleu.jpg",LEMAN BLEU
 https://livevideo.vedge.infomaniak.com/livecast/naxoo/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WKkfW34/lmnbl.png",LEMAN BLEU
+https://edge17.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 1
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8QFgbN/carac.png",CARAC 2
