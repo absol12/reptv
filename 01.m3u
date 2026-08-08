@@ -3389,6 +3389,16 @@ https://fast.kwikmotion.com/roya/documentaries/playlist.m3u8
 https://fast.kwikmotion.com/roya/kitchen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA PRODUCTION
 https://fast.kwikmotion.com/roya/roya-production/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MUSIC
+https://fast.kwikmotion.com/roya/music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA KIDS SONGS
+https://fast.kwikmotion.com/roya/kids-songs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA KIDS STORIES
+https://fast.kwikmotion.com/roya/kids-stories/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA DRAMA
+https://fast.kwikmotion.com/roya/roya_drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA ACTION
+https://fast.kwikmotion.com/roya/roya_action/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" user-agent="Mozilla/5.0",ROYA SPORT
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/roya3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MAHABBA
