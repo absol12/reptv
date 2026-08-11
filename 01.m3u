@@ -147,8 +147,6 @@ https://d2j98tkhxr36u7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://video.twimg.com/amplify_video/2058475935494471681/pl/sBNd1gIm_tEXZxec.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE (backup)
 https://rtsinfo-f.akamaized.net/out/v1/lsvs/rts-info/hbbtv/master.mpd?dw=7201
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE (backoff)
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📡",FRANCE LA 1ʳᵉ
@@ -3069,6 +3067,10 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
 https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
 https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
@@ -3650,7 +3652,7 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR CUL
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
-https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Mngyds/kd1ro.png",KANAL D RO
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMNsZPf/kd2ro.png",KANAL D2 RO
