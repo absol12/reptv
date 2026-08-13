@@ -2611,6 +2611,8 @@ https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" user-agent="SmartOsTV",TELAD 24 ערוץ
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/t24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png" user-agent="SmartOsTV",TELAD 24 sub-cc ערוץ
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/ch24live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png",CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO (part-time)
@@ -2619,22 +2621,24 @@ https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png",HAKNESSET 99 sub-cc כנסת
 https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET COMEDY
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg",RESHET 13 NOFESH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPh5D2w/13nofesh.jpg",RESHET NOFESH
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg",RESHET 13 REALITY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg",RESHET REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k644c1S3/eretz.jpg" user-agent="SmartOsTV",MAKO ERETZ COUNTRY (disoutoff)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/erets.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwVvjgWn/savri.jpg" user-agent="SmartOsTV",MAKO SAVRI MARNAN (disoutoff)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/savri.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvXmDXdW/hatunami.jpg" user-agent="SmartOsTV",MAKO HATUNA WEDDING (disoutoff)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/hatuna.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VcQcGr6y/kohav.jpg" user-agent="SmartOsTV",MAKO KOHAV STAR (disoutoff)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/kohav.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qF5Zvwgt/ninja.jpg" user-agent="SmartOsTV",MAKO NINJA ISR (disoutoff)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/ninja.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV FOOD
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/food.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV MUSIC
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/music.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV DRAMA
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/drama.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV COMEDY
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO ERETZ
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/erets.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO SAVRI
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/savri.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",WALLA !+ וואלה! חדשות
