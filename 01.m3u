@@ -2848,6 +2848,8 @@ https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DH9J1qQN/aliraqia.jpg",AL IRAQIA SPORT
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JpfbVF6/halabtod.png",HALAB TODAY
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JpfbVF6/halabtod.png",HALAB TODAY
 https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
