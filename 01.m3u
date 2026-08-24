@@ -3465,14 +3465,18 @@ https://fast.kwikmotion.com/roya/roya_palestine/playlist.m3u8
 https://fast.kwikmotion.com/roya/mojtama3y/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png" group-title="24. |IT|🇮🇹 ITALIA - LOCALE",RAI NEWS 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVWX6wwm/rainews.jpg" group-title="24. |IT|🇮🇹 ITALIA - LOCALE",RAI NEWS 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI NEWS 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVWX6wwm/rainews.jpg",RAI NEWS 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI 3
-https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVWX6wwm/rainews.jpg",RAI NEWS
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI 3
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfNBSXqb/tgcom24.png.png",TGCOM 24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/02vCECa.png",LA C NEWS 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleticino.png",TELETICINO
