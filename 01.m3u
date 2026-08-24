@@ -415,6 +415,8 @@ https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23JK5ZzF/society.png",SOCIETY PLUS
 https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Hmj1n0K/jds.png",JDS - LE JOUR DU SEIGNEUR TV
+https://daiconnect.com/live/hls/tvup/lg-jdstv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/kto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
