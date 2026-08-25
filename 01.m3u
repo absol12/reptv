@@ -2101,6 +2101,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN BRAZIL
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTÍCIAS VERTICAL MOBILE
+https://popup.live.impresa.pt/out/v1/3cc2998191024d369a901e9b4f56621b/sicnot_vertical.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gDFmb2z/vplustvi.png",TVI V+
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/tvimai.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO
@@ -2113,6 +2115,14 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f7dMysm/11pt.png",CANAL 11
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ PT
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WLChYH9/rtpdes1.png",RTP DESPORTO 1
+https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20PGZKZn/rtpdes2.png",RTP DESPORTO 2
+https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 2
@@ -2177,6 +2187,8 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwQdjcqH/rtpnot.png" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP NOTÍCIAS (backup)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" user-agent="Firefox" referer="https://sicnoticias.pt/" origin="https://sicnoticias.pt",SIC NOTÍCIAS [geoblocked]
+https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" user-agent="Firefox" referer="https://sic.pt/" origin="https://sic.pt",SIC [geoblocked]
 https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" drm="ClearKey", drmkey="e4cce7421f2843fe94915343372ba185:a55effc1eb5ccf1af1c4f09abbb1cd39",SIC (backup)
@@ -2187,8 +2199,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_ipncecrg/deliveryProfileId/25732/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC (backup)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/4878d85bebb54f2fb444341bae34692f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png" user-agent="Firefox" referer="https://sicnoticias.pt/" origin="https://sicnoticias.pt",SIC NOTÍCIAS [geoblocked]
-https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTÍCIAS VERTICAL MOBILE (backup)
+https://popup.live.impresa.pt/out/v1/3cc2998191024d369a901e9b4f56621b/sicnot_vertical_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" referer="https://sic.pt/",SIC OPT. (backup)
 https://eventos.live.impresa.pt/opto_in1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" referer="https://sic.pt/",SIC NOVELAS (backup)
