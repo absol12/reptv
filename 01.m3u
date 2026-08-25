@@ -18,7 +18,7 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI CANADA
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfcRhGCJ/rtsinfo.png",RTS INFO SUISSE
-https://rtsinfo-f.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-master.m3u8
+https://rtsinfo-d.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN 24 BELGIQUE [GEO-BLCK]
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL TV LIBERTÉS [PROMO]
