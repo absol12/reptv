@@ -1439,6 +1439,8 @@ https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV (backup)
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="11. |TR|🇹🇷 MÜZİK 🎵🎺",SPOTIFY TUR • 2026 👍🔥
