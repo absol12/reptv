@@ -357,6 +357,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
 https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21nKSHb5/scifiraku.jpg",SCI-FI RAKUTEN
 https://sci-fi-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7161/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21nKSHb5/scifiraku.jpg",SCI-FI RAKUTEN
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mYFNW4H/rustica.png",RUSTICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7761
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkZ9fckv/pluto.png",ANIMAUX PLUTO
@@ -2605,14 +2607,16 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 group-title="17. |MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",--- |DZ:🇩🇿 ALGÉRIE| ---
 https://blank
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png",TV1 ENTV
-http://5.253.46.190:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 ALGÉRIE
-http://162.212.179.33/dvrfl05/gin-canalalgerie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png",TV1 ENTV
+https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/tv1?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png",TV2 CANAL ALG
+https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/tv2?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png",ECHOROUK
+https://raw.githubusercontent.com/adamshl-oss/iptv-curated/main/streams/echorouk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png",ENNAHAR
+https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/ennahar?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF
-https://live.elheddaftv.com:8081/elheddaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png",EL HEDDAF
-https://live.elheddaftv.com:8081/elheddaf/index.mpd
+https://algerian-tv-relay-2026.espiiem.chatgpt.site/api/free/elheddaf?m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Gn19S8p/al24dz.png",AL24 NEWS
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhc4X4cr/wataniadz.jpg",WATANIYA DZ
@@ -4274,9 +4278,15 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX 2
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX 2
 https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_channelId=99991194
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KpVXtWSW/scripps.png",SCRIPPS NEWS
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpVXtWSW/scripps.png",SCRIPPS NEWS
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpVXtWSW/scripps.png",SCRIPPS COURT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png",REAL AMERICAS VOICE
