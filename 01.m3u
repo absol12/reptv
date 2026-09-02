@@ -337,6 +337,10 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/france
 https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kjQ4pFC/cpassorcier.jpg",C'EST PAS SORCIER (EN BOUCLE)
+https://amg30706-amg30706c2-amgplt0145.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg30706-amg30706c2-amgplt0145/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kjQ4pFC/cpassorcier.jpg",C'EST PAS SORCIER (EN BOUCLE)
+https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4BZYXRH/epicurieux.png",ÉPICURIEUX
 https://epicurieux-channel-dash.vodfactorychannels.com/out/v1/a22ee1f11bbb4de88e66b049268406bd/index.mpd?bpkio_serviceid=ba9a56ce0a9bfa263cf8dddcda650d42
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4BZYXRH/epicurieux.png",ÉPICURIEUX
@@ -385,7 +389,7 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png",DESTINATION NATURE
 https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk1wjB8k/Lovepla.png",LOVE THE PLANET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk1wjB8k/Lovepla.png",LOVE THE PLANET - CAP TERRE
 https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
@@ -495,6 +499,8 @@ https://jmp2.uk/stvp-ES3800001V1
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ FR
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFScZB1Y/eurovisionsport.jpg",EUROVISION SPORT
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png",DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png",MOTORVISION FR
