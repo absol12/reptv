@@ -1205,6 +1205,8 @@ https://yt.tecostream.xyz/live/cnnturk
 https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
 https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/sozcu_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ulusalkanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100 (backup)
