@@ -1142,7 +1142,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Aki
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ekoturk.m3u8
+https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg",BUSINESS CHANNEL TÜRK
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/business-channel-turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TH TÜRK HABER
@@ -1201,6 +1201,8 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
 https://yt.tecostream.xyz/live/cnnturk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/cnn_turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
 https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
@@ -1538,7 +1540,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bizim_Ev_Tv.m3u8
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
 https://tv.cemtv.net/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM D ANADOLU TV
@@ -3725,6 +3727,12 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 NATIONAL TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 NATIONAL 24+
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Mngyds/kd1ro.png",KANAL D RO
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMNsZPf/kd2ro.png",KANAL D2 RO
@@ -3779,6 +3787,8 @@ http://webtvstream.bhtelecom.ba/rts1.m3u8
 http://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS SVET
 http://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTS SAT
+https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK TV
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png",PINK RED
