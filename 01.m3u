@@ -1092,13 +1092,11 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",SÖZCÜ WEB
-http://193.123.61.120:3000/kanal/Sozcutelevizyonu_2
+http://193.123.61.120:3000/kanal/Sozcutelevizyonu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Cnn.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
@@ -1143,10 +1141,12 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
+https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Cnn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
+https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Krt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Akit.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
@@ -1213,6 +1213,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://yt.tecostream.xyz/live/cnnturk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/cnnturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
 https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
@@ -1231,8 +1233,6 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=356e7599-d81d-4357-935a-355a1ad9846e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100 (backup)
 https://yt.tecostream.xyz/live/tv100?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
