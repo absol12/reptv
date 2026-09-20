@@ -3034,6 +3034,8 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR SHOOF 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 1
+https://shoofcdn-gcp.alkassdigital.net/1789547890/playlist.m3u8?hdnts=exp=1792141384~hmac=6e517e5f7d6da338b4422c53a99309fb2b39a79ca0dca315ce463261e57451a6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",AL KASS QATAR 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
