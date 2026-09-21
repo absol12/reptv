@@ -1090,8 +1090,8 @@ https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",SÖZCÜ WEB
+http://193.123.61.120:3000/kanal/Sozcutelevizyonu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",SÖZCÜ WEB
 http://193.123.61.120:3000/kanal/Sozcutelevizyonu_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
@@ -1215,6 +1215,8 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/cnntur
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
 https://helga.iptv2022.com/szc_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
+https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/sozcutelevizyonu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
@@ -4585,5 +4587,5 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:-1,Empty 021
+#EXTINF:-1,Empty 01
 http://indisponible
