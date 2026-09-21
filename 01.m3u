@@ -3030,13 +3030,13 @@ http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
 http://mains.services/live/67564813/67564813/aa7ac53c-a585-4ced-9e27-3a28aac75a7b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 1
-https://github.com/pinkisso/mored/blob/main/res/26-3/Alkass%201.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 2
-https://github.com/pinkisso/mored/blob/main/res/26-3/Alkass%202.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 3
-https://github.com/pinkisso/mored/blob/main/res/26-3/Alkass%203.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 4
-https://github.com/pinkisso/mored/blob/main/res/26-3/Alkass%204.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR SHOOF 1
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/shoof1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",SAUDI SBC SA
@@ -4587,3 +4587,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 02
 http://indisponible
+#EXTINF:-1,EmptyA
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass%201.m3u8
+#EXTINF:-1,EmptyB
+https://github.com/pinkisso/mored/blob/main/res/26-3/Alkass1.m3u8
