@@ -213,6 +213,8 @@ https://live-cdn-rmcstor-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 https://live-cdn-rmcdeco-lg-fr-euw1.rmc.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9 (backup)
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9 (backup)
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (backup)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 MÉTROPOLE (offdown)
@@ -3033,6 +3035,8 @@ http://185.9.2.18/chid_139/index.m3u8
 http://mains.services/live/67564813/67564813/aa7ac53c-a585-4ced-9e27-3a28aac75a7b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 1
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass%201.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 1
+https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 2
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/Alkass%202.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png" user-agent="Mozilla/5.0",AL KASS QATAR 3
@@ -4589,3 +4593,39 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1,Empty 01
 http://indisponible
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" drm="ClearKey", drmkey="06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2",ANTENA 3 INT
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" drm="ClearKey", drmkey="00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",MEDIASET I1
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="5b997b6eda03520a572ab527499859ca:0a35a1a66db970a5b7e4bb6d469737cd",ABUDH INTOTT
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADO_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABUDH STZPL
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e",ROTANE COMA
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc",ROTANE DRAME
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1",ROTAN CINE
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="fb2af6f98931c04b31a5ae79e39d83e1:0543fa0ae14498726a4f79e13c697f80",ROTA MSC
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTS_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="ed918632eb4ebfb816465238003ecc5e:d9c30b4c097a2a09e9dc65e84661e76b",ROTANE CLOP 
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTV_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="2abdaccade913849b5d49f66a0dc5ec0:66a14430097ac3a49564cefd4a18047d",ROTAN DKIS
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTI_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="cd958ea8546f458b5afdf0e76f0a4075:3842b43d8f3db44d32cbd80ddd4cbe4e",DUBAI INTOTT
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DBT_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed",DUBAI STRZ
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="abf7feb9a2acc125ad47d5cc826af07b:2cbdff4c6d869474ac2dbc81f7ec8eed",M6INT
+https://ev-fast-mpd.starzplayarabia.com/live/eds/M6/DASH/M6.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544",MAJID STRZ
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_dash/index.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="2d9d2ff7e16589866e6de748a7a34dcd:91c93471f897aca8db5411a3aebef4db",SPACE STARZ
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="2d61037244f336e8b8daf832ffc84003:999b547e5fdd56948315382730852045",SPACE INTPP
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPT_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="9ce92792b8c13a88addaa51956024080:445ae86ff85cbb74817fa5963313e641",LBCSAT
+https://ev-fast-mpd.starzplayarabia.com/live/eds/LBC_Sat_HD/DASH-v2/LBC_Sat_HD.mpd
+#EXTINF:-1 drm="ClearKey", drmkey="e0e509505fe1c0ffbd8a231975f5766b:597ac85861db4bac4ba4a354ff6cdcf5",LBC 
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/LBC_HEVC/wv-pr/manifest.mpd
