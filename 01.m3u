@@ -403,8 +403,12 @@ https://8f2e9d0b11c24eafb34c1e151467b631.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png",TV5MONDE+ VOYAGE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png",TV5MONDE+ VOYAGE
+https://tvf-tvfvo-tcl-tv-plus.otteravision.com/tvf/tvfvo/tvfvo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRzQ2yBw/Tv5m-cf.png",TV5MONDE+ CHEFS
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzQ2yBw/Tv5m-cf.png",TV5MONDE+ CHEFS
+https://tvf-tv5ch-tcl-tv-plus.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRzQ2yBw/Tv5m-cf.png",TV5MONDE+ CHEFS
 https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WPbxmgn/tv5style.png",TV5MONDE STYLE [geo-area]
@@ -3518,7 +3522,7 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVWX6wwm/rainews.jpg",RAI NEWS
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI ITALIA
-https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI 3
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfNBSXqb/tgcom24.png.png",TGCOM 24
