@@ -3679,6 +3679,11 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL GOLD
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |NL:🇳🇱 NETHERLANDS| ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/przbGM2v/npo.png",NPO 1
+https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/przbGM2v/npo.png",NPO 2
+https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |DK:🇩🇰 DENMARK| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rdh3h1Q/drtva.png",DR TVA
