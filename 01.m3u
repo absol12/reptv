@@ -3680,6 +3680,7 @@ https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL GOLD
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |NL:🇳🇱 NETHERLANDS| ---
+http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/przbGM2v/npo.png",NPO 1
 https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/przbGM2v/npo.png",NPO 2
