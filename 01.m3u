@@ -1951,6 +1951,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/er
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
+https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2
