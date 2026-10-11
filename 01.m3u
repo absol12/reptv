@@ -1987,8 +1987,8 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg",STAR CGR
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png",MEGA
-http://185.102.171.218/MegaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png" drm="ClearKey", drmkey="7ef914cbddc27fbf47c4b24610a571a1:9196400b74c70c98f7d2da6aaac7e242" user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36 EdgA/150.0.0.0" referer="https://www.greektv.live/",MEGA
+https://spark3.smart-tv-data.com/megaHD/megaHD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png",MEGA
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6D9CPT/megagr.png",MEGA
@@ -4050,7 +4050,7 @@ https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png",IRIB IRINN 2
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM IR
-https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5KJmDS/aiosport1.jpg",IRIB TWSPORT
 https://ncdn.telewebion.ir/twsport/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VDQwTkz/aiosport2.jpg",IRIB TWSPORT 2
@@ -4164,7 +4164,7 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",IRIB IFILM FAR
-https://live.presstv.ir/hls/ifilmfa_4_482/index.m3u8
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" user-agent="VLC/3.0.18 LibVLC/3.0.18" referer="https://mbc.net/",MBC PERSIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png",HASTI TV
@@ -4585,6 +4585,8 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV
+https://live.presstv.co.uk/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png",PRESS TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" referer="https://odysee.com/",PRESS TV [censure-ifany]
