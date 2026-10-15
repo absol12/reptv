@@ -1560,7 +1560,7 @@ https://raw.githubusercontent.com/ardifyxmotion/iptv-kanal/refs/heads/main/strea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png",EURO D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png",SHOW TÜRK
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/shturk.m3u8
+https://ciner.daioncdn.net/showturk/showturk.m3u8?app=3a516c79-a14a-4585-9204-9080fb8ecb61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCXCRcn/tgrteu1.png",TGRT EU
@@ -2569,6 +2569,8 @@ https://amg00803-amg00803c3-samsung-es-4975.playouts.now.amagi.tv/playlist/amg00
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ESPAÑOL
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png",NEWS MAX ESP
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 ES (backup)
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS ES (backup)
