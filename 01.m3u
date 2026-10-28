@@ -716,55 +716,55 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PARIS IDF
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/zw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PROVENCE ALPES
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/fa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CÔTE D'AZUR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/b0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI RHÔNE ALPES
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/xd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI ALPES
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/op.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI AUVERGNE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/ag.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI BOURGOGNE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/jq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI FRANCHE COMPTÉ
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/pq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CENTRE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/xs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CORSE VÍA STELLA
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/km.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI ALSACE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/vw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI CHAMPAGNE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/ce.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LORRAINE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/f0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI NORD PDC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/tw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PICARDIE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/a7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI B.NORMANDIE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/v9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI H.NORMANDIE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/hp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI AQUITAINE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI NOA
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/r.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LIMOUSIN
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/s.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI POITOU CHARENTES
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/x0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI MIDI PYRÉNÉES
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/bw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI LANGUEDOC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/wm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI PAYS LOIRE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/lt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z8SYHqs/f3ici.png",F3/ICI BRETAGNE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/bq.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png",TÉBÉO TV
 https://indisponible
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png",TVR RENNES
@@ -2697,9 +2697,9 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
 https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
 https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
@@ -2813,15 +2813,9 @@ https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManife
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY (backup)
 https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
-https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?dummyfile
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו (backup)
 https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
-https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?type=video&ft=0&id=8&bitrate=1800000
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
-https://n-121-11.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?type=video&ft=0&id=8&bitrate=1800000
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו (backup)
 https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
 https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
