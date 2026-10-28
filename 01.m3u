@@ -2700,7 +2700,7 @@ https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
-https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?dummyfile
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",ARUTZ ערוץ 16
@@ -2814,7 +2814,7 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY (backup)
 https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
-https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
 https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
