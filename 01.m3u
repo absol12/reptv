@@ -2698,9 +2698,9 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
 https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
-https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",ARUTZ ערוץ 16
@@ -2713,6 +2713,8 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/t24.m3
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/ch24live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png",CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png",CALCALA 10 ערוץ_הכלכלה
+https://r.il.cdn-redge.media/livedash/oil/calcala-live/live/channel10/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO (part-time)
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO [Geoblocked]
@@ -2811,6 +2813,16 @@ https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManife
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQd5XDT/13comedy.jpg",RESHET 13 COMEDY (backup)
 https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?type=video&ft=0&id=8&bitrate=1800000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://n-121-11.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx?type=video&ft=0&id=8&bitrate=1800000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW 14 עכשיו (backup)
+https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
 https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
