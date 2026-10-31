@@ -2359,7 +2359,7 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1/cbc12a8d68d346078496095c84512bf4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png",TELECINCO 5
 http://176.65.146.237:8401/play/a09r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LA SEXTA 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png",LASEXTA 6
 http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" drm="ClearKey", drmkey="b18078e2d24a43c2bef2acf0ecf92962:2fe3632c7074c7bbe49611ccc750a571",LASEXTA 6
 https://cache2.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
@@ -3579,7 +3579,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S42xvvsN/rai2.png",RAI DUE
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI TRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60bPDCF6/rai3.png",RAI TRE
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKXQPRRw/rete4.png" drm="ClearKey", drmkey="cf382806cf76499ab47216a572c2ff0f:4fbed7c21b2a2e44f1e537a83195a155",RETE 4
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(rete4)/manifest.mpd
@@ -4665,7 +4665,7 @@ https://d1k2s17sgkoemp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3hnx79nr9mhdw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1u2levt4fksmr/CNNFAST_GB.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png" group-title="31. |🎵|🎧MUSIC INT/MISC. 🎸🎷",DELUXE MUSIC English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png" group-title="31. |🎵|🎧MUSIC INT/MISC. 🎸🎷",DELUXE MUSIC ENGLSIH
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",DELUXE MUSIC DANCE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
