@@ -3579,8 +3579,6 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S42xvvsN/rai2.png",RAI DUE
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60bPDCF6/rai3.png",RAI TRE
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xGG27kS/raiit.png",RAI TRE
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKXQPRRw/rete4.png" drm="ClearKey", drmkey="cf382806cf76499ab47216a572c2ff0f:4fbed7c21b2a2e44f1e537a83195a155",RETE 4
