@@ -1378,9 +1378,9 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CİNE 1 TV
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
-https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
+https://ensonhaber-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xrJpJq9/trtnost.jpg",TRT NOSTALJİ WEB
@@ -4693,5 +4693,5 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://jmp2.uk/stvp-DEAH3904006A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",DELUXE MUSIC WINTER TIME
 https://jmp2.uk/stvp-DE340000678
-#EXTINF:-1,Empty 02
+#EXTINF:-1,Empty 021
 http://indisponible
