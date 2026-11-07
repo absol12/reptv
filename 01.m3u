@@ -1117,7 +1117,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://raw.githubusercontent.com/sunarproje/yt/main/streams/szc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT
 https://raw.githubusercontent.com/sunarproje/yt/refs/heads/main/streams/krt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
@@ -1249,9 +1249,9 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/cnntur
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Cnn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CNN TÜRK (backup)
 https://cnn.impresents.workers.dev/canli-yayin.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT (backup)
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Krt.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
 https://helga.iptv2022.com/szc_tv/index.m3u8
