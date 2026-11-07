@@ -529,6 +529,8 @@ https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/play
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mLx5j8M/fuel.png",FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafrance-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC TOP GEAR
+https://amg00793-amg00793c45-lg-fr-7737.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearfrance-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png",MOTORVISION FR
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png",MOTORVISION
@@ -593,6 +595,10 @@ https://c-drama-now-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e4767
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994448
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC SERIES
 https://amg00793-amg00793c28-samsung-fr-4957.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrancesamsungfrance-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC SERIES
+https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC SERIES
+https://amg00793-amg00793c42-lg-fr-7739.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSd7JFGq/lovecrimehist.jpg",LOVE CRIME HISTORY
 https://d2m0unh5d7jde4.cloudfront.net/playlist/amg01821-lovetvfast-lovecrimeandhistoryfrance-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxvp0jxR/cine-scifi.jpg",CINE SCI-FI
@@ -1290,7 +1296,7 @@ https://raw.githubusercontent.com/sunarproje/yt/refs/heads/main/streams/akit.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
@@ -1314,7 +1320,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv3.m3u8
+https://tv.sunarproje.com.tr/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
@@ -1375,6 +1381,8 @@ https://turkuaz.tecostream.xyz/atv?m3u8
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -1496,11 +1504,7 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/beinsportshaber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt)
-https://yt.tecostream.xyz/live/beinsportshaber
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER (alt2)
-https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
+https://raw.githubusercontent.com/sunarproje/yt/refs/heads/main/streams/beinsports-haber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV (backoff)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
@@ -1622,7 +1626,7 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
-https://tv.cemtv.net/cemtv/cemtv.m3u8
+https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM D ANADOLU TV
 https://tv.cemtv.net:19360/danadolutv/danadolutv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz9m8HdG/sutv.jpg",SU TV
@@ -2603,6 +2607,8 @@ https://player.telebilbao.es/hls/web-public/live.m3u8
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE HITS ACCION
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DShXyk3/bbcser.png",BBC SERIES ESP
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 ES
@@ -4431,6 +4437,8 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg
 https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC NEWS
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gCmb0Gt/msnbc.jpg",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5QzrcwW/yahfin.png",YAHOO! FINANCE
