@@ -1320,7 +1320,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
-https://tv.sunarproje.com.tr/atv.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
@@ -1382,7 +1382,7 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv1.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/atv3.m3u8
+https://tv.sunarproje.com.tr/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
@@ -1391,6 +1391,8 @@ https://b.livev.xyz/fox/index.m3u8
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
+https://now.impresents.workers.dev/now.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=MRy00KYcXC9rF1eL_Yxp9w&e=1794144343
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
