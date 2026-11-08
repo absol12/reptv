@@ -24,7 +24,7 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL - TV LIBERTÉS [PROMO]
 https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
-https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+https://raw.githubusercontent.com/d32k18/iptv/refs/heads/main/m3u8/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
 https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 LA TV
@@ -136,7 +136,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 LA TV (backup)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV (backup)
-hhttps://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/lemedia.m3u8
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x8dtuir.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png",CGTN FRANÇAIS (backup)
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSYtYHZ/africanews.png",AFRICANEWS FR (backup)
@@ -780,7 +780,7 @@ https://e-tv.digicomedia.net:3730/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCB3X1Hm/bordosport.png",BORDO SPORT
 https://srv.webtvmanager.fr:3225/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TÉLÉ NANTES
-https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/telenantes.m3u8
+https://raw.githubusercontent.com/d32k18/iptv/refs/heads/main/m3u8/telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" referer="https://player.castr.com/",TV VENDÉE
 https://stream.castr.com/65007e17d53b82677257fa93/live_811ab8e05c9511f0a342e102693c1a5b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDÉE
