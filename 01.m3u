@@ -1302,7 +1302,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=rt_urzTjTHEaNYw68AG1fQ&e=1794207232
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=TZUi3rcLOJJ7Zoa3K-sq_g&e=1794222501
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
@@ -1394,7 +1394,7 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/nowtv3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
 https://now.impresents.workers.dev/now.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW (backup)
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=rt_urzTjTHEaNYw68AG1fQ&e=1794207232
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=TZUi3rcLOJJ7Zoa3K-sq_g&e=1794222501
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
