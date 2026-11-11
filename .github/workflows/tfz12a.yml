@@ -1,0 +1,83 @@
+name: tfz12a
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/45 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-tf1:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Get final redirected TF1 URL
+        id: tf1
+        run: |
+          URL=$(curl -fLsS -o /dev/null -w '%{url_effective}' \
+            "https://tvradiozap.eu/tools/cof-m3u8.php/tf/TF1.m3u8")
+
+          if [[ "$URL" != https://* && "$URL" != http://* ]]; then
+            echo "ERROR: Invalid redirected URL"
+            exit 1
+          fi
+
+          echo "url=$URL" >> "$GITHUB_OUTPUT"
+          echo "Final TF1 URL obtained successfully."
+
+      - name: Update TF1 URL in 01.m3u
+        env:
+          TF1_URL: ${{ steps.tf1.outputs.url }}
+        run: |
+          python3 <<'PY'
+          import os
+          from pathlib import Path
+
+          playlist = Path("01.m3u")
+          lines = playlist.read_text(encoding="utf-8").splitlines()
+
+          tf1_line = next(
+              (i for i, line in enumerate(lines)
+               if "TF1 CDN" in line),
+              None
+          )
+
+          if tf1_line is None:
+              raise SystemExit("ERROR: TF1 CDN entry not found")
+
+          if tf1_line + 1 >= len(lines):
+              raise SystemExit("ERROR: TF1 stream line missing")
+
+          new_url = os.environ["TF1_URL"]
+
+          lines[tf1_line + 1] = new_url
+
+          playlist.write_text(
+              "\n".join(lines) + "\n",
+              encoding="utf-8"
+          )
+
+          print(f"TF1 CDN updated at line {tf1_line + 2}")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add 01.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "Update tfz12a"
+          git push origin main
