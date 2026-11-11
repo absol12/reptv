@@ -172,7 +172,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6 MÉTROPOLE
 https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CDN
-https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI3OS4xMjcuMTM0LjM0IiwiY21jZCI6IiIsImV4cCI6MTc5NDM5MjM2MSwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3OTQzNzc5NjEsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9wcm9kL1RGMS9jbWFmL291dCIsIIiwidmlkZW9pZCI6IiJ9.4rpZVFG0UqDPNlKu7MERRq4LOpUcLFzYHgKSIEhhti8/prod/TF1/cmaf/out/TF1.m3u8
+https://alive-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5Mi4xNTQuNy4zMyIsImNtY2QiOiIiLCJleHAiOjE3OTQ0Mjk0NzYsImdpZCI6ImM0MzViMzI5YmNiNjQxNjM5OGMxMzIxZTVlYTkyZDA3IiwiaWF0IjoxNzk0NDE1MDc2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvcHJvZC9URjEvY21hZi9vdXQiLCJzdWIiOiJjNDM1YjMyOWJjYjY0MTYzOThjMTMyMWU1ZWE5MmQwNyIsInZpZGVvaWQiOiIifQ.WVg7jQxWtjLHEsz2_gTLaZfYkiP6tcJd2sILCnSrmE4/prod/TF1/cmaf/out/TF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 SSAI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6 MÉTROPOLITAIN
