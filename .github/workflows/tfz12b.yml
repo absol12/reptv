@@ -1,0 +1,108 @@
+name: tfz12b
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/25 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  tfz1-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Download Python script from restv
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          curl -fLsS \
+            -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://api.github.com/repos/absol12/restv/contents/py/tf12a.py" \
+            -o tf12a.py
+
+          test -s tf12a.py || {
+            echo "ERROR: Python script download failed"
+            exit 1
+          }
+
+      - name: Run Python and extract final TF1 URL
+        id: extract
+        run: |
+          set -o pipefail
+
+          url=$(python3 tf12a.py | tail -n1 | sed 's|[^/]*\.m3u8$|TF1.m3u8|')
+
+          if [[ "$url" != http://* && "$url" != https://* ]]; then
+            echo "ERROR: Invalid TF1 URL: $url"
+            exit 1
+          fi
+
+          echo "FINAL_URL=$url" >> "$GITHUB_ENV"
+          echo "TF1 URL successfully extracted."
+
+      - name: Clean up Python script
+        run: rm -f tf12a.py
+
+      - name: Replace TF1 CDN URL in 01.m3u
+        run: |
+          python3 <<'PY'
+          import os
+          from pathlib import Path
+
+          playlist = Path("01.m3u")
+          lines = playlist.read_text(encoding="utf-8").splitlines()
+
+          tf1_line = next(
+              (i for i, line in enumerate(lines)
+               if "TF1 CDN" in line),
+              None
+          )
+
+          if tf1_line is None:
+              raise SystemExit("ERROR: TF1 CDN not found in 01.m3u")
+
+          if tf1_line + 1 >= len(lines):
+              raise SystemExit("ERROR: TF1 CDN URL line missing")
+
+          new_url = os.environ["FINAL_URL"]
+
+          lines[tf1_line + 1] = new_url
+
+          playlist.write_text(
+              "\n".join(lines) + "\n",
+              encoding="utf-8"
+          )
+
+          print(f"TF1 CDN updated at line {tf1_line + 2}")
+          PY
+
+      - name: Commit and push updated 01.m3u
+        run: |
+          git config user.name "tfz12b boot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add 01.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "tfz12b update"
+          git push origin main
