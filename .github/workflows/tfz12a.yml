@@ -3,13 +3,13 @@ name: tfz12a
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/45 * * * *'
+    - cron: "*/45 * * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-tf1:
+  tfz1-update:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,23 +18,48 @@ jobs:
         with:
           ref: main
 
-      - name: Get final redirected TF1 URL
-        id: tf1
-        run: |
-          URL=$(curl -fLsS -o /dev/null -w '%{url_effective}' \
-            "https://tvradiozap.eu/tools/cof-m3u8.php/tf/TF1.m3u8")
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-          if [[ "$URL" != https://* && "$URL" != http://* ]]; then
-            echo "ERROR: Invalid redirected URL"
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Download Python script from restv
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          curl -fLsS \
+            -H "Authorization: token $PRIVATE_REPO_TOKEN" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://api.github.com/repos/absol12/restv/contents/py/tf12a.py" \
+            -o tf12a.py
+
+          test -s tf12a.py || {
+            echo "ERROR: Python script download failed"
+            exit 1
+          }
+
+      - name: Run Python and extract final TF1 URL
+        id: extract
+        run: |
+          set -o pipefail
+
+          url=$(python3 tf12a.py | tail -n1 | sed 's|[^/]*\.m3u8$|TF1.m3u8|')
+
+          if [[ "$url" != http://* && "$url" != https://* ]]; then
+            echo "ERROR: Invalid TF1 URL: $url"
             exit 1
           fi
 
-          echo "url=$URL" >> "$GITHUB_OUTPUT"
-          echo "Final TF1 URL obtained successfully."
+          echo "FINAL_URL=$url" >> "$GITHUB_ENV"
+          echo "TF1 URL successfully extracted."
 
-      - name: Update TF1 URL in 01.m3u
-        env:
-          TF1_URL: ${{ steps.tf1.outputs.url }}
+      - name: Clean up Python script
+        run: rm -f tf12a.py
+
+      - name: Replace TF1 CDN URL in 01.m3u
         run: |
           python3 <<'PY'
           import os
@@ -50,12 +75,12 @@ jobs:
           )
 
           if tf1_line is None:
-              raise SystemExit("ERROR: TF1 CDN entry not found")
+              raise SystemExit("ERROR: TF1 CDN not found in 01.m3u")
 
           if tf1_line + 1 >= len(lines):
-              raise SystemExit("ERROR: TF1 stream line missing")
+              raise SystemExit("ERROR: TF1 CDN URL line missing")
 
-          new_url = os.environ["TF1_URL"]
+          new_url = os.environ["FINAL_URL"]
 
           lines[tf1_line + 1] = new_url
 
@@ -67,9 +92,9 @@ jobs:
           print(f"TF1 CDN updated at line {tf1_line + 2}")
           PY
 
-      - name: Commit and push changes
+      - name: Commit and push updated 01.m3u
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name "tfz1 boot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add 01.m3u
@@ -79,5 +104,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update tfz12a"
+          git commit -m "tfz12a update"
           git push origin main
