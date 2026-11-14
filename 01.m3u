@@ -1259,22 +1259,18 @@ https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Krt.
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
 https://helga.iptv2022.com/szc_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (offbackup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/sozcutelevizyonu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (offbackup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/szcytbe.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
-http://193.123.61.120:3000/kanal/Sozcutelevizyonu_2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
-http://193.123.61.120:3000/kanal/Sozcutelevizyonu
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
-https://yt.tecostream.xyz/live/sozcutelevizyonu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (onlineup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ WEB (backup)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ulusalkanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKİT TV (backup)
@@ -2392,9 +2388,7 @@ http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" drm="ClearKey", drmkey="06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2",ANTENA 3 INT
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
-http://38.44.109.41:8003/play/a0fu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png",ANTENA 3
-http://176.65.146.237:8401/play/a0ae/index.m3u8
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" drm="ClearKey", drmkey="c1b0f4be6d9060a585dd92f49b093585:685a067eef72656be5f000a063caa49f",CUATRO 4
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqkgjnprni/out/v1/03443dac525a4c008d1d96fb04f3877a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png",CUATRO 4
@@ -2450,7 +2444,7 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsLm5g5/trece.png",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
-http://200.229.147.142:8000/play/a05z/index.m3u8
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png",ATRES SERIES
