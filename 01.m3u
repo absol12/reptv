@@ -7,6 +7,10 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/dm1/lemediadm1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL - TV LIBERTÉS [PROMO]
+https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?tag=14&variant_version=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxgyM8r8/tv5minfo.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
@@ -21,10 +25,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://rtsinfo-d.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png",LN 24 - BELGIQUE [GEO-BLCK]
 https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png",TVL - TV LIBERTÉS [PROMO]
-https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?tag=14&variant_version=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
-https://raw.githubusercontent.com/d32k18/iptv/refs/heads/main/m3u8/lemedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mydd6sds/brutfr.png",BRUT.
 https://live-cdn-brut-lg-fr-euw1.cmamedia.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 LA TV
