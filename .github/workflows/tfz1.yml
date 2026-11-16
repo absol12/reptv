@@ -3,7 +3,7 @@ name: tfz1
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/50 * * * *"
+    - cron: "*/22 * * * *"
 
 jobs:
   tfz1-update:
