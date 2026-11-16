@@ -1374,7 +1374,7 @@ http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW (backup)
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
-https://b.livev.xyz/aytv/tracks-v1a1/mono.m3u8
+https://guard.sekobes.workers.dev/?url=https://trkvz-to-m3u8-link.onrender.com/proxy?url=https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
@@ -1433,6 +1433,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist.m3
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL
+http://exchange.cdnrdn.com:9090/TR/trtbelgeselhd-tr/index.m3u8?token=filbox_oztnvqmfK83KS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
@@ -1502,6 +1504,8 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png",SIFIR TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sifir_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
+https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
@@ -1539,10 +1543,20 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (sometimes)
 https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backup)
+https://tv.sunarproje.com.tr/minikago.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backup)
+https://tv.sunarproje.com.tr/minikagococuk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK (backup)
+https://trkvz-to-m3u8-link.onrender.com/proxy?url=https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO (backup)
+https://trkvz-to-m3u8-link.onrender.com/proxy?url=https://trkvz-live.ercdn.net/minikago/minikago.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR (backup)
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
 http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR (backup)
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/a_spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV (backup)
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
@@ -1632,7 +1646,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
-https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM D ANADOLU TV
@@ -1675,6 +1689,8 @@ https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.is
 https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png",TGRT BELGESEL
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV
+https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/vav_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV AILE
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj1H8LCm/vavtv.png",VAV TV ISLAM
