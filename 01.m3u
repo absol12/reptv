@@ -200,7 +200,7 @@ https://alive-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" drm="ClearKey", drmkey="e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b",W9
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotfx.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER
 https://raw.githubusercontent.com/kadadevelopers/live-m3u8/refs/heads/main/fr/video6ter.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvcLdXT/tfsf.png",TF1 SÉRIES FILMS
@@ -243,6 +243,8 @@ https://gitlab.com/-/snippets/6007730/raw/main/6m2.m3u8
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/m61.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="9a10e8caf30a360880dfb6c5b0b741a6:98e29a3c85d348c950925055f60764c3",M6 MÉTROPOLE (backup)
 https://edge-cf-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N3/dash-short-hd.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png",TFX (offlink)
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotfx.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 CH/SWISS
 https://gitlab.com/-/snippets/6000776/raw/main/f1t.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 WEB
@@ -1257,6 +1259,8 @@ https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Cnn.
 https://cnn.impresents.workers.dev/canli-yayin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT (backup)
 https://raw.githubusercontent.com/umitm0d/-mittube/refs/heads/main/Umittube/Krt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT (backup)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ds3vjbt5/krt266.jpg",KRT (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/krttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV (backup)
