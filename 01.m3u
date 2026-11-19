@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/bsmart.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",BLOOMBERG FR
 https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS [censure-blocked]
-https://librarian.pussthecat.org/live/content/a6a125c99ba2a6c068a8b502fb08dda603f6f03a/live.m3u8
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpTLsj47/psenat.png",LCP-AN PUBLIC-SÉNAT (backup)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png",LCP-AN / PS (backup)
@@ -2895,6 +2895,8 @@ https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104
 https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו (backup)
 https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO (backup)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
 https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
@@ -4128,7 +4130,7 @@ http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",XEZER TV
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",XEZER TV
-https://www.xezerxeber.az/stream/index.m3u8
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="29. |IR|🇮🇷 IRAN",IRIB 1
@@ -4759,3 +4761,5 @@ https://jmp2.uk/stvp-DEAH3904006A
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1,Empty 022
 http://indisponible
+#EXTINF:-1 drm="ClearKey", drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU DHABI TV
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
