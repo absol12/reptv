@@ -4127,9 +4127,9 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",TMB AZ
 http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",XEZER TV
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",XEZER TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",XEZER TV
+http://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",XEZER TV
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 
 
@@ -4761,5 +4761,3 @@ https://jmp2.uk/stvp-DEAH3904006A
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1,Empty 022
 http://indisponible
-#EXTINF:-1 drm="ClearKey", drmkey="dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207",ABU DHABI TV
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
