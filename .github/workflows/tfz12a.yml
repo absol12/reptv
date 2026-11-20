@@ -3,7 +3,7 @@ name: tfz12a
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/45 * * * *"
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
