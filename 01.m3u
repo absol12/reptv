@@ -1535,6 +1535,8 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked]
 http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F41XNYMB/yrstyz.png",YARISTAYIZ TV
+https://hipodrom-spinemedia-live.ercdn.net/yaristayiz/yaristayiz.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5QjKLt/tay22.png",TAY TV
 http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
