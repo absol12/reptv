@@ -2125,6 +2125,8 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56kWP6F/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WjJK729/flashgr.jpg",FLASH GR
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png",GROOVY TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m2fYyYw/skaibb.jpg",SKAI BIG BROTHER
@@ -2815,6 +2817,8 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/music.
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV COMEDY
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/comedy.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV KIDS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO ERETZ
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/erets.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO SAVRI
@@ -3125,6 +3129,8 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png",RAJEEN
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfG6HZSR/qudsunatv.png",QUDSUNA
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsuna.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
