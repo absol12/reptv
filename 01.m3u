@@ -1131,10 +1131,10 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/szc1.m
 https://raw.githubusercontent.com/sunarproje/yt/refs/heads/main/streams/krt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA
-https://raw.githubusercontent.com/sunarproje/yt/refs/heads/main/streams/kozatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza3.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK
@@ -1217,8 +1217,6 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza0.
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA (backup)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VP8pfs9/koza.jpg",KOZA (backup)
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-3/koza3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK (backup)
@@ -4785,7 +4783,3 @@ https://jmp2.uk/stvp-DEAH3904006A
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1,Empty 022
 http://indisponible
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png",FREE
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png",TVFREE
-http://r.il.cdn-redge.media/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
