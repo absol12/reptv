@@ -2267,10 +2267,10 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20PGZKZn/rtpdes2.png",RTP DESPORTO 2
 https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0" referer="https://www.rtp.pt/play/direto/rtp1" origin="https://www.rtp.pt" drm="ClearKey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0" referer="https://www.rtp.pt/play/direto/rtp2" origin="https://www.rtp.pt" drm="ClearKey", drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MEMÓRIA
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP MADEIRA
@@ -2351,6 +2351,12 @@ https://popup.live.impresa.pt/out/v1/3cc2998191024d369a901e9b4f56621b/sicnot_ver
 https://eventos.live.impresa.pt/opto_in1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png" referer="https://sic.pt/",SIC NOVELAS (backup)
 https://eventos.live.impresa.pt/opto_in2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 1 (deadline)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="IE" referer="https://www.rtp.pt/play/direto",RTP 2 (deadline)
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0" referer="https://tviplayer.iol.pt" origin="https://tviplayer.iol.pt",TVI (backup)
+https://d28hnoqioi2jsa.cloudfront.net/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="16. |ES|🇪🇸 ESPAÑA",TVE INTERNACIONAL
@@ -2772,9 +2778,9 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png",KAN 11 sub-cc כאן
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12dvr.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/n12rh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 sub-cc רשת
@@ -2782,7 +2788,7 @@ https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו
-https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS HE 15 עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzZbGpt5/16isr.png",ARUTZ ערוץ 16
@@ -2821,6 +2827,10 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/drama.
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/comedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV KIDS
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV CLIPS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDCCBfT1/frtvmako.png" user-agent="SmartOsTV",FREETV MOVIES
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO ERETZ
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/erets.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0WR3njy/keshet.png" user-agent="SmartOsTV",MAKO SAVRI
@@ -2883,6 +2893,10 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12.m3
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/n12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 N12B קשת (disoutoff)
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr/n12b.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 קשת (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" user-agent="SmartOsTV",KESHET 12 sub-cc קשת (backup)
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/isr2/k12cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת (backup)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg",RESHET 13 רשת (backup)
@@ -2903,6 +2917,8 @@ https://d15ds134q59udk.cloudfront.net/media/3b45de9e-c944-4fdc-a344-7c3042b5b104
 https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/dai.livx
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו (backup)
 https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png",NOW C14 עכשיו (backup)
+https://r.il.cdn-redge.media/livedash/oil/ch14/live/ch14/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png",SPORT5 STUDIO RADIO (backup)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png",YNET NEWS (feed)
@@ -4771,3 +4787,9 @@ https://jmp2.uk/stvp-DEAH3904006A
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1,Empty 022
 http://indisponible
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0" referer="https://tviplayer.iol.pt",TVI
+https://d28hnoqioi2jsa.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" drm="ClearKey", drmkey="f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" drm="ClearKey", drmkey="761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd
