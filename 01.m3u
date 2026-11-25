@@ -1651,6 +1651,8 @@ https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1v8BsRb/pati.png",PATİ TV
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png",BİZİM EV TV
 https://raw.githubusercontent.com/yaskar661-lgtm/termux-yt-canli/refs/heads/main/streams/bizimev_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWH0pWK/cem1.png",CEM TV
@@ -3091,8 +3093,8 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMm9t2ZK/niletv.png",NILE TV
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPnBtm3X/samara.png",SAMARA WEB
-https://live.bradosti.net/live/samaraweb_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPnBtm3X/samara.png",SAMARA TV
+https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png",KAB 1
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFZ3kZj/alwousta.png",AL WOUSTA
